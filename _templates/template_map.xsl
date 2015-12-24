@@ -6,13 +6,12 @@
     <xsl:import href="template.xsl"/>
     
     <xsl:param name="pageXml">
-    	<page:page>
-		</page:page>
+    	<page:page></page:page>
     </xsl:param>
         
 	<!-- <Root> -->
     
-    <xsl:template name="footer">      
+    <xsl:template name="footer">
 		<div class="footer">
 			<div class="poweredby"></div>
 		</div>
