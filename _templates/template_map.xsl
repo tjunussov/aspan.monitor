@@ -6,21 +6,12 @@
     <xsl:import href="template.xsl"/>
     
     <xsl:param name="pageXml">
-<<<<<<< HEAD
     	<page:page></page:page>
-=======
-    	<page:page>
-		</page:page>
->>>>>>> refs/remotes/origin/master
     </xsl:param>
         
 	<!-- <Root> -->
     
-<<<<<<< HEAD
     <xsl:template name="footer">
-=======
-    <xsl:template name="footer">      
->>>>>>> refs/remotes/origin/master
 		<div class="footer">
 			<div class="poweredby"></div>
 		</div>
