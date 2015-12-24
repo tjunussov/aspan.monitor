@@ -1,0 +1,1962 @@
+{
+    "ts": "2015-12-24T14:42:57.289+0600",
+    "status": "OK",
+    "data": {
+        "branch_id": 7,
+        "branch_title": "г.Астана ЦОУ",
+        "visitors_cnt": 783,
+        "called": [{
+            "id": "739767a4-28a4-446e-a8fd-2029fe841613",
+            "title": "1128",
+            "lane_id": "79806e5e-41d1-8c2b-0e95-28967877584c",
+            "lane_title": "Выдача заказной корреспонденции и мелких пакетов",
+            "token_id": "1512247-778",
+            "client": {
+                "title": "БАЙМУЗИН   188- 7- 535  МП",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:41:22.019+0600",
+            "status": "pending",
+            "priority": 0,
+            "operator": {
+                "unit_id": "2249e3c5-c614-d341-c26c-4c86bb111c5b",
+                "unit_title": "03",
+                "user_id": "b3e503d2-41ba-1af9-bf13-5395dc9729e0_7_7",
+                "username": "Жакенова Берекеля",
+                "login": "",
+                "logins": [{
+                    "login": "ASTBEREKE"
+                }],
+                "ts": "2015-12-24T11:53:23.562+0600"
+            },
+            "t_ct": "2015-12-24T14:42:55.446+0600",
+            "t_lct": "2015-12-24T14:42:55.446+0600"
+        }],
+        "serving": [{
+            "id": "29d801ac-cfd6-476c-8623-42caac61ba7b",
+            "title": "0749",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-685",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:57:04.068+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "2a3f96ea-2071-cbe5-cdd0-e4a9bc6b514c",
+                "unit_title": "20",
+                "user_id": "4c36c6d4-7c0f-9f25-a207-b4ca175f368f_7_7",
+                "username": "Султанова Ажар",
+                "login": "",
+                "logins": [{
+                    "login": "AST_AZHARS"
+                }, {
+                    "login": "ASTAZHARS"
+                }, {
+                    "login": "ASTAZHARS"
+                }],
+                "ts": "2015-12-24T12:40:21.673+0600"
+            },
+            "t_ct": "2015-12-24T14:37:12.421+0600",
+            "t_st": "2015-12-24T14:37:18.821+0600",
+            "t_lct": "2015-12-24T14:37:12.421+0600"
+        }, {
+            "id": "9067e971-eeaa-44fc-a371-b7e05f42fd8b",
+            "title": "0750",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-696",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:02:27.640+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "f2b14a03-fbd4-20e5-e6c2-aa603c46f31c",
+                "unit_title": "22",
+                "user_id": "42289b30-e0d3-775b-68f4-f1ae89a3f887_7_7",
+                "username": "Жакутова Жибек Балтемировна",
+                "login": "",
+                "logins": [{
+                    "login": "AST_ZHIBEK"
+                }, {
+                    "login": "ASTZHIBEK"
+                }],
+                "ts": "2015-12-24T13:37:31.100+0600"
+            },
+            "t_ct": "2015-12-24T14:38:58.363+0600",
+            "t_st": "2015-12-24T14:39:16.747+0600",
+            "t_lct": "2015-12-24T14:38:58.363+0600"
+        }, {
+            "id": "535bb3a7-209a-4eaa-8e90-2ee1c4c7a2ed",
+            "title": "1426",
+            "lane_id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+            "lane_title": "Коммунальные и иные платежи",
+            "token_id": "1512247-597",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:05:33.855+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "3c0b75bc-37c1-6ebd-a168-1086643fe041",
+                "unit_title": "15",
+                "user_id": "a99887ba-8f14-d9ad-e3a0-462dffaec40f_7_7",
+                "username": "Серикбаев Шынгыс Даулетович",
+                "login": "ASTSHINGIS",
+                "logins": [{
+                    "login": "ASTSHINGIS"
+                }, {
+                    "login": "AST_SHYNGYSM"
+                }, {
+                    "login": "AST_SHINGIS1"
+                }],
+                "ts": "2015-12-24T09:28:24.773+0600"
+            },
+            "t_ct": "2015-12-24T14:05:33.855+0600",
+            "t_st": "2015-12-24T14:05:35.566+0600",
+            "t_lct": "2015-12-24T14:05:33.855+0600",
+            "prev_item": "6c63c2f7-563b-4c13-ac79-1f09b06d8fce"
+        }, {
+            "id": "a1b1e345-1ea0-44a5-9f27-75bb12c5a9b9",
+            "title": "0746",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-669",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:45:30.613+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "99e201e9-0648-0098-0a22-5d12ab6b28a6",
+                "unit_title": "19",
+                "user_id": "2c7c15f5-7983-0e54-4186-cf859b2cedff_7_7",
+                "username": "Бекмаганбет Әліби Маратұлы",
+                "login": "KUR_BEK",
+                "logins": [{
+                    "login": "KUR_BEK"
+                }, {
+                    "login": "ASTALIBI"
+                }],
+                "ts": "2015-12-24T11:40:34.176+0600"
+            },
+            "t_ct": "2015-12-24T14:28:13.356+0600",
+            "t_st": "2015-12-24T14:28:20.083+0600",
+            "t_lct": "2015-12-24T14:28:13.356+0600"
+        }, {
+            "id": "99ac5c05-4702-44ce-a149-bb3a75f4c9ff",
+            "title": "0306",
+            "lane_id": "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533",
+            "lane_title": "Срочный перевод Salem tenge",
+            "token_id": "1512247-768",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:37:17.062+0600",
+            "status": "serving",
+            "priority": 1,
+            "operator": {
+                "unit_id": "7aa32277-d910-b14b-6f90-cdc50b9ba248",
+                "unit_title": "11",
+                "user_id": "215e4308-069e-1e55-4858-2e28d9179e94_7_7",
+                "username": "Магрупова Анара Булатовна",
+                "login": "AST_ANARAM",
+                "logins": [{
+                    "login": "AST_ANARAM"
+                }, {
+                    "login": "ASTANARAM"
+                }],
+                "ts": "2015-12-24T13:34:02.224+0600"
+            },
+            "t_ct": "2015-12-24T14:38:49.625+0600",
+            "t_st": "2015-12-24T14:38:54.408+0600",
+            "t_lct": "2015-12-24T14:38:49.625+0600"
+        }, {
+            "id": "2e5988b5-f9f2-46d5-947f-b0de6644b127",
+            "title": "1127",
+            "lane_id": "79806e5e-41d1-8c2b-0e95-28967877584c",
+            "lane_title": "Выдача заказной корреспонденции и мелких пакетов",
+            "token_id": "1512247-769",
+            "client": {
+                "title": "ТОО МИРАС БРОК АУЭЗОВА  33/1   ВОЗВРАТ ЗП ОТ  24/12УЧ 2",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:38:22.852+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "38b5dde8-d949-906a-4553-a365e6780483",
+                "unit_title": "04",
+                "user_id": "996c7ac9-e293-aef1-4fe3-95ab2774d505_7_7",
+                "username": "Калиева Динара Мирасовна",
+                "login": "11111",
+                "logins": [{
+                    "login": "ASTKDINARA"
+                }],
+                "ts": "2015-12-24T13:11:25.865+0600"
+            },
+            "t_ct": "2015-12-24T14:38:44.277+0600",
+            "t_st": "2015-12-24T14:38:56.174+0600",
+            "t_lct": "2015-12-24T14:38:44.277+0600"
+        }, {
+            "id": "593e3f5a-3f3d-4f69-83b4-e99a865f7e9d",
+            "title": "0114",
+            "lane_id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+            "lane_title": "Платежи: в бюджет, налоги",
+            "token_id": "1512247-675",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:49:33.423+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "b635b7a6-7c90-f214-60ef-8a24eeae0cc9",
+                "unit_title": "23",
+                "user_id": "cca13053-adf6-10ff-376e-e9f17acd1272_7_7",
+                "username": "Утеулиева Алуа Алимхановна",
+                "login": "",
+                "logins": [{
+                    "login": "AST_ALUA"
+                }, {
+                    "login": "ASTALUA"
+                }],
+                "ts": "2015-12-24T13:48:06.707+0600"
+            },
+            "t_ct": "2015-12-24T14:30:19.902+0600",
+            "t_st": "2015-12-24T14:30:30.206+0600",
+            "t_lct": "2015-12-24T14:30:19.902+0600"
+        }, {
+            "id": "e05c6aa5-1a04-4a62-b396-b867318dc1c2",
+            "title": "0393",
+            "lane_id": "r:01684810-5743-e49d-4177-ea078b04141a",
+            "lane_title": "Получение пенсий, пособий, заработной платы",
+            "token_id": "1512247-701",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:04:11.309+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "21b27f02-5377-196f-717f-2b13b6d78653",
+                "unit_title": "12",
+                "user_id": "4081042f-b7f1-f0b4-d7f2-383499c1e664_7_7",
+                "username": "Кушербаев Даулет",
+                "login": "",
+                "logins": [{
+                    "login": "AST_DAULETK"
+                }],
+                "ts": "2015-12-24T14:40:27.310+0600"
+            },
+            "t_ct": "2015-12-24T14:40:34.003+0600",
+            "t_st": "2015-12-24T14:40:56.923+0600",
+            "t_lct": "2015-12-24T14:40:34.003+0600"
+        }, {
+            "id": "7a1d0054-ac3b-472f-b307-c6a9c7cc59c9",
+            "title": "0797",
+            "lane_id": "r:9044c704-c368-9d70-7be2-326c547d8995",
+            "lane_title": "Отправка ЕМS отправлений",
+            "token_id": "1512247-748",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:26:46.136+0600",
+            "status": "serving",
+            "priority": 1,
+            "operator": {
+                "unit_id": "746c3132-a268-6f1f-e107-53a2dd20c071",
+                "unit_title": "08",
+                "user_id": "5ab19b34-014b-3aed-2031-4b44f813dede_7_7",
+                "username": "Уразбаева Айда",
+                "login": "",
+                "logins": [{
+                    "login": "ASTAIDAS"
+                }],
+                "ts": "2015-12-24T14:04:48.067+0600"
+            },
+            "t_ct": "2015-12-24T14:27:06.111+0600",
+            "t_st": "2015-12-24T14:28:19.197+0600",
+            "t_lct": "2015-12-24T14:27:06.111+0600"
+        }, {
+            "id": "74225889-8582-4d2c-a2de-50ba353173b6",
+            "title": "1444",
+            "lane_id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+            "lane_title": "Коммунальные и иные платежи",
+            "token_id": "1512247-700",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:04:00.626+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "fd1be671-b17b-46b9-b35c-d80d377fa63b",
+                "unit_title": "16",
+                "user_id": "61b28c57-6934-6fd5-900a-78f8c6215b3b_7_7",
+                "username": "Индира Ибраева",
+                "login": "ASTINDIRT",
+                "logins": [{
+                    "login": "ASTINDIRT"
+                }, {
+                    "login": "AST_INDIRA1"
+                }],
+                "ts": "2015-12-24T14:11:37.728+0600"
+            },
+            "t_ct": "2015-12-24T14:36:42.726+0600",
+            "t_st": "2015-12-24T14:37:09.100+0600",
+            "t_lct": "2015-12-24T14:36:42.726+0600"
+        }, {
+            "id": "81332e15-17f4-4b60-b503-1239e378985f",
+            "title": "1222",
+            "lane_id": "28589886-38ad-d24c-343f-e6ed1635484e",
+            "lane_title": "Выдача международных посылок",
+            "token_id": "1512247-780",
+            "client": {
+                "title": "CP022057815TR",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:42:13.817+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "ad204f06-c835-9a83-6d5e-dce6ecea0551",
+                "unit_title": "01",
+                "user_id": "b62130b9-f7e1-60d6-5033-a353fdcfc1f8_7_7",
+                "username": "Дидар Абилкасимова",
+                "login": "ASTDIDARA",
+                "logins": [{
+                    "login": "ASTDIDARA"
+                }, {
+                    "login": "ASTDIDAR"
+                }],
+                "ts": "2015-12-24T13:03:05.991+0600"
+            },
+            "t_ct": "2015-12-24T14:42:27.146+0600",
+            "t_st": "2015-12-24T14:42:41.526+0600",
+            "t_lct": "2015-12-24T14:42:27.146+0600"
+        }, {
+            "id": "ceac1f88-511d-4d3a-93ee-abaa474db150",
+            "title": "0796",
+            "lane_id": "r:9044c704-c368-9d70-7be2-326c547d8995",
+            "lane_title": "Отправка ЕМS отправлений",
+            "token_id": "1512247-734",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:39:51.348+0600",
+            "status": "serving",
+            "priority": 1,
+            "operator": {
+                "unit_id": "9de6bc17-d1bd-180e-39c9-aade603abb9e",
+                "unit_title": "07",
+                "user_id": "c71439e2-e1e1-a49a-1450-c7a906341946_7_7",
+                "username": "Кудеринова Асия Асқаровна",
+                "login": "AST_AKUD",
+                "logins": [{
+                    "login": "AST_AKUD"
+                }, {
+                    "login": "ASTASIYAK"
+                }],
+                "ts": "2015-12-24T13:52:57.039+0600"
+            },
+            "t_ct": "2015-12-24T14:39:51.348+0600",
+            "t_st": "2015-12-24T14:40:08.219+0600",
+            "t_lct": "2015-12-24T14:39:51.348+0600",
+            "prev_item": "155f2000-93a9-4cba-9757-d4cd3de0723a"
+        }, {
+            "id": "821f19eb-b141-4735-a40d-6a2b5f34d135",
+            "title": "0747",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-672",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:47:17.207+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "524ac5c9-c71a-ddff-0e22-06c80db983fd",
+                "unit_title": "02",
+                "user_id": "2658264e-303f-cb8d-48e0-f5a1cd52ce8e_7_7",
+                "username": "Назым Женсебаева",
+                "login": "AST_NAZYM",
+                "logins": [{
+                    "login": "AST_NAZYM"
+                }, {
+                    "login": "ASTNAZYM"
+                }],
+                "ts": "2015-12-24T12:33:31.008+0600"
+            },
+            "t_ct": "2015-12-24T14:28:35.609+0600",
+            "t_st": "2015-12-24T14:29:06.852+0600",
+            "t_lct": "2015-12-24T14:28:37.637+0600"
+        }, {
+            "id": "6be03f22-4d22-4c02-a28a-6f1686505058",
+            "title": "0649",
+            "lane_id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+            "lane_title": "Отправка посылок, бандеролей, мелких пакетов",
+            "token_id": "1512247-689",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:59:05.414+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "845e3daa-a852-9643-b351-929656d52294",
+                "unit_title": "06",
+                "user_id": "a5396bf7-97a8-2cc2-edcb-7365fe92137e_7_7",
+                "username": "Гульсум Капарова",
+                "login": "AST_GUL",
+                "logins": [{
+                    "login": "AST_GUL"
+                }, {
+                    "login": "ASTGULSIM"
+                }],
+                "ts": "2015-12-24T12:37:14.861+0600"
+            },
+            "t_ct": "2015-12-24T14:37:31.563+0600",
+            "t_st": "2015-12-24T14:37:59.938+0600",
+            "t_lct": "2015-12-24T14:37:51.610+0600"
+        }, {
+            "id": "ef0261b9-ada4-46e7-b4ce-5d52c0a31334",
+            "title": "0751",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-697",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:02:38.159+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "d9379edc-71ec-cab7-b01a-285fd61919ba",
+                "unit_title": "21",
+                "user_id": "b0c1e7ca-056c-1c2d-6ad4-e6d85e33ab6c_7_7",
+                "username": "Саденова Тогжан",
+                "login": "",
+                "logins": [{
+                    "login": "AST_TOGZHANK"
+                }, {
+                    "login": "ASTTOGZHANK"
+                }],
+                "ts": "2015-12-24T14:03:27.346+0600"
+            },
+            "t_ct": "2015-12-24T14:39:09.952+0600",
+            "t_st": "2015-12-24T14:39:28.344+0600",
+            "t_lct": "2015-12-24T14:39:09.952+0600"
+        }, {
+            "id": "0ea4f89a-a5e9-4946-a28f-ff77f569183e",
+            "title": "0815",
+            "lane_id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+            "lane_title": "Подписка на газеты и журналы",
+            "token_id": "1512247-670",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:45:53.043+0600",
+            "status": "serving",
+            "priority": 0,
+            "operator": {
+                "unit_id": "86785823-3fc1-c7b4-a8fa-9468428540c6",
+                "unit_title": "24",
+                "user_id": "6e84c280-b167-99c4-db06-eae1aeefc550_7_7",
+                "username": "Муконова Айгерим Абдыкадыровна",
+                "login": "",
+                "logins": [{
+                    "login": "AST_AIGERM"
+                }, {
+                    "login": "ASTAIGERM"
+                }],
+                "ts": "2015-12-24T13:42:14.097+0600"
+            },
+            "t_ct": "2015-12-24T14:29:52.215+0600",
+            "t_st": "2015-12-24T14:30:06.451+0600",
+            "t_lct": "2015-12-24T14:29:52.215+0600"
+        }],
+        "postponed": [],
+        "waiting": [ {
+            "id": "1001cda7-57dc-49ca-9c9e-716236f049bf",
+            "title": "0904",
+            "lane_id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+            "lane_title": "Отправка заказной, простой корреспонденции",
+            "token_id": "1512247-713",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:11:33.739+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "fa0ebf1a-20a5-4b39-b86f-8b06f40b664b",
+            "title": "0652",
+            "lane_id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+            "lane_title": "Отправка посылок, бандеролей, мелких пакетов",
+            "token_id": "1512247-709",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:10:31.339+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "e7df0d09-e40a-4ace-9f5b-8734fd269626",
+            "title": "0653",
+            "lane_id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+            "lane_title": "Отправка посылок, бандеролей, мелких пакетов",
+            "token_id": "1512247-731",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:19:42.960+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "1b91218c-c6b9-4385-b8d3-f37f85690df2",
+            "title": "0654",
+            "lane_id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+            "lane_title": "Отправка посылок, бандеролей, мелких пакетов",
+            "token_id": "1512247-733",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:20:40.771+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "92572228-0d86-49d7-af9d-c92651129f0a",
+            "title": "0655",
+            "lane_id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+            "lane_title": "Отправка посылок, бандеролей, мелких пакетов",
+            "token_id": "1512247-764",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:36:17.248+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "155c26b2-2964-4903-b462-24a920760867",
+            "title": "0752",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-705",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:04:51.732+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "5d45516b-8a85-43a6-ba54-c83047c9aa97",
+            "title": "0753",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-712",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:11:04.103+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "c07efb3f-ad3f-4825-b9c6-b86c79ceaaf9",
+            "title": "0754",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-715",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:12:08.176+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "b150ddd7-2080-42e2-aa04-c7007e05dff5",
+            "title": "0755",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-720",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:13:34.381+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "d5cd549e-6c78-49df-893a-c95bdc9d303c",
+            "title": "0756",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-726",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:17:19.055+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "0f6ff28b-7b01-4e49-a8bd-7050e9295827",
+            "title": "0757",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-735",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:20:53.487+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "4bdcb1a2-5640-4095-9547-c5fb07a5a2d2",
+            "title": "0758",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-754",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:31:51.814+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "5116ada4-5b0f-43dd-9c34-c00573966217",
+            "title": "0759",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-757",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:33:05.002+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "c5ae153f-9369-4837-850d-7e11f59dfcab",
+            "title": "0731",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-762",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:35:56.097+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "746c65f9-85e0-4fce-90f0-b6c101238348",
+            "title": "0732",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-770",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:38:34.660+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "5917e6fa-bcda-4cd5-bb6a-04f32ebea00a",
+            "title": "0733",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-774",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:40:22.884+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "a70a3dc7-1bbc-45df-b50b-b045eca568a6",
+            "title": "0734",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-777",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:40:53.099+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "f325e281-ee68-49e8-abcb-e6e9ae64f5ea",
+            "title": "0735",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-782",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:42:31.171+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "0f1872d4-8c85-4925-b08a-519deece1edb",
+            "title": "0400",
+            "lane_id": "r:01684810-5743-e49d-4177-ea078b04141a",
+            "lane_title": "Получение пенсий, пособий, заработной платы",
+            "token_id": "1512247-776",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:40:43.873+0600",
+            "status": "waiting",
+            "priority": 0
+        }, {
+            "id": "51a408db-4c02-44a8-aca7-ec617b92f755",
+            "title": "2004",
+            "lane_id": "2c70d500-9239-a517-621c-fd73746773fc",
+            "lane_title": "Телеграмма",
+            "token_id": "1512247-750",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:27:31.371+0600",
+            "status": "waiting",
+            "priority": 0
+        }],
+        "done": [{
+            "id": "f6330285-0a0c-4cf6-b5ce-3340444f5146",
+            "title": "1184",
+            "lane_id": "79806e5e-41d1-8c2b-0e95-28967877584c",
+            "lane_title": "Выдача заказной корреспонденции и мелких пакетов",
+            "token_id": "1512247-548",
+            "client": {
+                "title": "ДЖУМАШЕВ Б.Ж. ЖЕЛТОКСАН 12А-16 М/П .",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T12:57:37.766+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "38b5dde8-d949-906a-4553-a365e6780483",
+                "unit_title": "04",
+                "user_id": "2f2b45d5-4c80-f236-ec3f-ffb45856bf4d_7_7",
+                "username": "Жанабергенова Гульбану Досымбековна",
+                "login": "33333",
+                "logins": [{
+                    "login": "ASTGULBAN"
+                }],
+                "ts": "2015-12-24T11:45:38.806+0600"
+            },
+            "t_ct": "2015-12-24T13:00:04.130+0600",
+            "t_st": "2015-12-24T13:00:08.977+0600",
+            "t_ft": "2015-12-24T13:05:50.998+0600",
+            "t_lct": "2015-12-24T13:00:04.130+0600"
+        }, {
+            "id": "f5296837-1967-4f7e-b0df-1e3206e0fed0",
+            "title": "0748",
+            "lane_id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+            "lane_title": "Отправка заказной корреспонденции",
+            "token_id": "1512247-677",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:52:07.432+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "f2b14a03-fbd4-20e5-e6c2-aa603c46f31c",
+                "unit_title": "22",
+                "user_id": "42289b30-e0d3-775b-68f4-f1ae89a3f887_7_7",
+                "username": "Жакутова Жибек Балтемировна",
+                "login": "",
+                "logins": [{
+                    "login": "AST_ZHIBEK"
+                }, {
+                    "login": "ASTZHIBEK"
+                }],
+                "ts": "2015-12-24T13:37:31.100+0600"
+            },
+            "t_ct": "2015-12-24T14:31:02.756+0600",
+            "t_st": "2015-12-24T14:31:14.356+0600",
+            "t_ft": "2015-12-24T14:38:57.475+0600",
+            "t_lct": "2015-12-24T14:31:02.756+0600"
+        }, {
+            "id": "5e36505e-7f62-4df2-9374-74ac8224b681",
+            "title": "0811",
+            "lane_id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+            "lane_title": "Подписка на газеты и журналы",
+            "token_id": "1512247-574",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:09:00.152+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "21b27f02-5377-196f-717f-2b13b6d78653",
+                "unit_title": "12",
+                "user_id": "4081042f-b7f1-f0b4-d7f2-383499c1e664_7_7",
+                "username": "Кушербаев Даулет",
+                "login": "",
+                "logins": [{
+                    "login": "AST_DAULETK"
+                }],
+                "ts": "2015-12-24T09:02:18.168+0600"
+            },
+            "t_ct": "2015-12-24T13:42:04.083+0600",
+            "t_st": "2015-12-24T13:42:14.538+0600",
+            "t_ft": "2015-12-24T13:57:48.103+0600",
+            "t_lct": "2015-12-24T13:42:04.083+0600"
+        }, {
+            "id": "c6450549-3b8a-49ad-97f4-6e80372e0eec",
+            "title": "0814",
+            "lane_id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+            "lane_title": "Подписка на газеты и журналы",
+            "token_id": "1512247-656",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:43:00.343+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "99e201e9-0648-0098-0a22-5d12ab6b28a6",
+                "unit_title": "19",
+                "user_id": "2c7c15f5-7983-0e54-4186-cf859b2cedff_7_7",
+                "username": "Бекмаганбет Әліби Маратұлы",
+                "login": "KUR_BEK",
+                "logins": [{
+                    "login": "KUR_BEK"
+                }, {
+                    "login": "ASTALIBI"
+                }],
+                "ts": "2015-12-24T11:40:34.176+0600"
+            },
+            "t_ct": "2015-12-24T14:23:07.438+0600",
+            "t_st": "2015-12-24T14:23:24.197+0600",
+            "t_ft": "2015-12-24T14:28:12.540+0600",
+            "t_lct": "2015-12-24T14:23:07.438+0600"
+        }, {
+            "id": "a6b1a40c-ec0b-47af-95e2-601fddbc4de8",
+            "title": "1443",
+            "lane_id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+            "lane_title": "Коммунальные и иные платежи",
+            "token_id": "1512247-699",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:03:42.934+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "fd1be671-b17b-46b9-b35c-d80d377fa63b",
+                "unit_title": "16",
+                "user_id": "61b28c57-6934-6fd5-900a-78f8c6215b3b_7_7",
+                "username": "Индира Ибраева",
+                "login": "ASTINDIRT",
+                "logins": [{
+                    "login": "ASTINDIRT"
+                }, {
+                    "login": "AST_INDIRA1"
+                }],
+                "ts": "2015-12-24T14:11:37.728+0600"
+            },
+            "t_ct": "2015-12-24T14:34:35.102+0600",
+            "t_st": "2015-12-24T14:35:10.171+0600",
+            "t_ft": "2015-12-24T14:36:41.831+0600",
+            "t_lct": "2015-12-24T14:34:35.102+0600"
+        }, {
+            "id": "c1b46dad-35ac-427f-8a4c-04fa2aca2c72",
+            "title": "1221",
+            "lane_id": "28589886-38ad-d24c-343f-e6ed1635484e",
+            "lane_title": "Выдача международных посылок",
+            "token_id": "1512247-765",
+            "client": {
+                "title": "cp312846649cn",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:36:35.304+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "ad204f06-c835-9a83-6d5e-dce6ecea0551",
+                "unit_title": "01",
+                "user_id": "b62130b9-f7e1-60d6-5033-a353fdcfc1f8_7_7",
+                "username": "Дидар Абилкасимова",
+                "login": "ASTDIDARA",
+                "logins": [{
+                    "login": "ASTDIDARA"
+                }, {
+                    "login": "ASTDIDAR"
+                }],
+                "ts": "2015-12-24T13:03:05.991+0600"
+            },
+            "t_ct": "2015-12-24T14:38:34.258+0600",
+            "t_st": "2015-12-24T14:38:43.458+0600",
+            "t_ft": "2015-12-24T14:42:24.429+0600",
+            "t_lct": "2015-12-24T14:38:34.258+0600"
+        }, {
+            "id": "cb5e21df-7a07-4849-a4ba-820fed4fe3ab",
+            "title": "0113",
+            "lane_id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+            "lane_title": "Платежи: в бюджет, налоги",
+            "token_id": "1512247-667",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:45:13.605+0600",
+            "status": "nocome-o",
+            "priority": 0,
+            "operator": {
+                "unit_id": "86785823-3fc1-c7b4-a8fa-9468428540c6",
+                "unit_title": "24",
+                "user_id": "6e84c280-b167-99c4-db06-eae1aeefc550_7_7",
+                "username": "Муконова Айгерим Абдыкадыровна",
+                "login": "",
+                "logins": [{
+                    "login": "AST_AIGERM"
+                }, {
+                    "login": "ASTAIGERM"
+                }],
+                "ts": "2015-12-24T13:42:14.097+0600"
+            },
+            "t_ct": "2015-12-24T14:27:10.201+0600",
+            "t_ft": "2015-12-24T14:28:26.982+0600",
+            "t_lct": "2015-12-24T14:27:10.201+0600"
+        }, {
+            "id": "0a3170bf-5ed2-4a3c-ada6-b49205d414b1",
+            "title": "0665",
+            "lane_id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+            "lane_title": "Получение посылок, бандеролей, мелких пакетов",
+            "token_id": "1512247-716",
+            "client": {
+                "title": "RC011457732KZ",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:13:11.587+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "524ac5c9-c71a-ddff-0e22-06c80db983fd",
+                "unit_title": "02",
+                "user_id": "2658264e-303f-cb8d-48e0-f5a1cd52ce8e_7_7",
+                "username": "Назым Женсебаева",
+                "login": "AST_NAZYM",
+                "logins": [{
+                    "login": "AST_NAZYM"
+                }, {
+                    "login": "ASTNAZYM"
+                }],
+                "ts": "2015-12-24T12:33:31.008+0600"
+            },
+            "t_ct": "2015-12-24T14:13:14.301+0600",
+            "t_st": "2015-12-24T14:13:43.468+0600",
+            "t_ft": "2015-12-24T14:28:29.951+0600",
+            "t_lct": "2015-12-24T14:13:17.618+0600"
+        }, {
+            "id": "07714c10-3a62-4956-8215-92258724876b",
+            "title": "0645",
+            "lane_id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+            "lane_title": "Отправка посылок, бандеролей, мелких пакетов",
+            "token_id": "1512247-636",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:34:24.236+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "845e3daa-a852-9643-b351-929656d52294",
+                "unit_title": "06",
+                "user_id": "a5396bf7-97a8-2cc2-edcb-7365fe92137e_7_7",
+                "username": "Гульсум Капарова",
+                "login": "AST_GUL",
+                "logins": [{
+                    "login": "AST_GUL"
+                }, {
+                    "login": "ASTGULSIM"
+                }],
+                "ts": "2015-12-24T12:37:14.861+0600"
+            },
+            "t_ct": "2015-12-24T14:09:16.903+0600",
+            "t_st": "2015-12-24T14:10:01.917+0600",
+            "t_ft": "2015-12-24T14:37:30.259+0600",
+            "t_lct": "2015-12-24T14:09:29.159+0600"
+        }, {
+            "id": "a2f48580-c115-4831-9317-e9b4af695831",
+            "title": "0305",
+            "lane_id": "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533",
+            "lane_title": "Срочный перевод Salem tenge",
+            "token_id": "1512247-760",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:35:03.947+0600",
+            "status": "served",
+            "priority": 1,
+            "operator": {
+                "unit_id": "7aa32277-d910-b14b-6f90-cdc50b9ba248",
+                "unit_title": "11",
+                "user_id": "215e4308-069e-1e55-4858-2e28d9179e94_7_7",
+                "username": "Магрупова Анара Булатовна",
+                "login": "AST_ANARAM",
+                "logins": [{
+                    "login": "AST_ANARAM"
+                }, {
+                    "login": "ASTANARAM"
+                }],
+                "ts": "2015-12-24T13:34:02.224+0600"
+            },
+            "t_ct": "2015-12-24T14:35:32.739+0600",
+            "t_st": "2015-12-24T14:35:54.294+0600",
+            "t_ft": "2015-12-24T14:38:46.680+0600",
+            "t_lct": "2015-12-24T14:35:32.739+0600"
+        }, {
+            "id": "03e428fe-01e7-40e2-be8a-fb94f540c98d",
+            "title": "0286",
+            "lane_id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+            "lane_title": "Денежные переводы",
+            "token_id": "1512247-588",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:14:19.817+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "0e163f1b-7c03-df73-2ddd-37980fda0a32",
+                "unit_title": "17",
+                "user_id": "5d2886b2-816b-dc19-788e-4d2c9349232d_7_7",
+                "username": "Инабат Капырахимова",
+                "login": "AST_INABAT",
+                "logins": [{
+                    "login": "AST_INABAT"
+                }, {
+                    "login": "ASTINABAT"
+                }],
+                "ts": "2015-12-24T08:58:35.833+0600"
+            },
+            "t_ct": "2015-12-24T13:46:56.666+0600",
+            "t_st": "2015-12-24T13:47:46.600+0600",
+            "t_ft": "2015-12-24T13:50:58.922+0600",
+            "t_lct": "2015-12-24T13:46:56.666+0600"
+        }, {
+            "id": "d694141d-c412-43b8-9592-6c3fec12a25d",
+            "title": "1125",
+            "lane_id": "79806e5e-41d1-8c2b-0e95-28967877584c",
+            "lane_title": "Выдача заказной корреспонденции и мелких пакетов",
+            "token_id": "1512247-746",
+            "client": {
+                "title": "КОЗЛОВ   ПОБЕДЫ  25-70   МП    УЧ  10",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:25:35.239+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "2249e3c5-c614-d341-c26c-4c86bb111c5b",
+                "unit_title": "03",
+                "user_id": "b3e503d2-41ba-1af9-bf13-5395dc9729e0_7_7",
+                "username": "Жакенова Берекеля",
+                "login": "",
+                "logins": [{
+                    "login": "ASTBEREKE"
+                }],
+                "ts": "2015-12-24T11:53:23.562+0600"
+            },
+            "t_ct": "2015-12-24T14:31:37.734+0600",
+            "t_st": "2015-12-24T14:31:38.701+0600",
+            "t_ft": "2015-12-24T14:38:53.079+0600",
+            "t_lct": "2015-12-24T14:31:37.734+0600"
+        }, {
+            "id": "3168c903-9eca-4392-a33c-1afe25b78a56",
+            "title": "2003",
+            "lane_id": "2c70d500-9239-a517-621c-fd73746773fc",
+            "lane_title": "Телеграмма",
+            "token_id": "1512247-621",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:29:44.789+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "55ca8d8d-d558-65cf-37eb-796e94457300",
+                "unit_title": "09",
+                "user_id": "dafbf8c7-8bc0-d0f1-d400-517bdf2d49c0_7_7",
+                "username": "Нұрғали Жарқынай",
+                "login": "AST_ZHARKYN",
+                "logins": [{
+                    "login": "AST_ZHARKYN"
+                }, {
+                    "login": "ASTZHARKYN"
+                }],
+                "ts": "2015-12-24T13:49:56.891+0600"
+            },
+            "t_ct": "2015-12-24T14:12:37.024+0600",
+            "t_st": "2015-12-24T14:12:45.996+0600",
+            "t_ft": "2015-12-24T14:14:56.625+0600",
+            "t_lct": "2015-12-24T14:12:37.024+0600"
+        }, {
+            "id": "dfe74ec0-367c-4f1c-bb48-f8f14922ecc5",
+            "title": "0528",
+            "lane_id": "r:da4a1295-f614-39b4-470b-989ac1b7709d",
+            "lane_title": "Открытие счета. Депозиты",
+            "token_id": "1512247-649",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:39:06.578+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "d9379edc-71ec-cab7-b01a-285fd61919ba",
+                "unit_title": "21",
+                "user_id": "b0c1e7ca-056c-1c2d-6ad4-e6d85e33ab6c_7_7",
+                "username": "Саденова Тогжан",
+                "login": "",
+                "logins": [{
+                    "login": "AST_TOGZHANK"
+                }, {
+                    "login": "ASTTOGZHANK"
+                }],
+                "ts": "2015-12-24T14:03:27.346+0600"
+            },
+            "t_ct": "2015-12-24T14:18:12.304+0600",
+            "t_st": "2015-12-24T14:19:08.398+0600",
+            "t_ft": "2015-12-24T14:39:08.889+0600",
+            "t_lct": "2015-12-24T14:18:12.304+0600"
+        }, {
+            "id": "fef26182-b27d-4bf5-b1ba-0a72bee37d44",
+            "title": "0646",
+            "lane_id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+            "lane_title": "Отправка посылок, бандеролей, мелких пакетов",
+            "token_id": "1512247-640",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:36:36.475+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "746c3132-a268-6f1f-e107-53a2dd20c071",
+                "unit_title": "08",
+                "user_id": "5ab19b34-014b-3aed-2031-4b44f813dede_7_7",
+                "username": "Уразбаева Айда",
+                "login": "",
+                "logins": [{
+                    "login": "ASTAIDAS"
+                }],
+                "ts": "2015-12-24T14:04:48.067+0600"
+            },
+            "t_ct": "2015-12-24T14:14:44.537+0600",
+            "t_st": "2015-12-24T14:15:03.801+0600",
+            "t_ft": "2015-12-24T14:26:30.513+0600",
+            "t_lct": "2015-12-24T14:14:44.537+0600"
+        }, {
+            "id": "1b86af20-4d4b-4dc3-b1c0-02d76d3546db",
+            "title": "0392",
+            "lane_id": "r:01684810-5743-e49d-4177-ea078b04141a",
+            "lane_title": "Получение пенсий, пособий, заработной платы",
+            "token_id": "1512247-663",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:44:39.655+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "2a3f96ea-2071-cbe5-cdd0-e4a9bc6b514c",
+                "unit_title": "20",
+                "user_id": "4c36c6d4-7c0f-9f25-a207-b4ca175f368f_7_7",
+                "username": "Султанова Ажар",
+                "login": "",
+                "logins": [{
+                    "login": "AST_AZHARS"
+                }, {
+                    "login": "ASTAZHARS"
+                }, {
+                    "login": "ASTAZHARS"
+                }],
+                "ts": "2015-12-24T12:40:21.673+0600"
+            },
+            "t_ct": "2015-12-24T14:24:46.238+0600",
+            "t_st": "2015-12-24T14:25:13.134+0600",
+            "t_ft": "2015-12-24T14:37:10.909+0600",
+            "t_lct": "2015-12-24T14:24:46.238+0600"
+        }, {
+            "id": "efad9683-ed04-4814-91a5-2b7b7744268a",
+            "title": "1425",
+            "lane_id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+            "lane_title": "Коммунальные и иные платежи",
+            "token_id": "1512247-595",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:15:49.048+0600",
+            "status": "nocome-o",
+            "priority": 0,
+            "operator": {
+                "unit_id": "3c0b75bc-37c1-6ebd-a168-1086643fe041",
+                "unit_title": "15",
+                "user_id": "a99887ba-8f14-d9ad-e3a0-462dffaec40f_7_7",
+                "username": "Серикбаев Шынгыс Даулетович",
+                "login": "ASTSHINGIS",
+                "logins": [{
+                    "login": "ASTSHINGIS"
+                }, {
+                    "login": "AST_SHYNGYSM"
+                }, {
+                    "login": "AST_SHINGIS1"
+                }],
+                "ts": "2015-12-24T09:28:24.773+0600"
+            },
+            "t_ct": "2015-12-24T13:54:01.091+0600",
+            "t_ft": "2015-12-24T13:56:02.558+0600",
+            "t_lct": "2015-12-24T13:54:01.091+0600"
+        }, {
+            "id": "b5d7a36f-2065-415a-a92f-7a1eec0cfafd",
+            "title": "0648",
+            "lane_id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+            "lane_title": "Отправка посылок, бандеролей, мелких пакетов",
+            "token_id": "1512247-681",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:53:13.463+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "9de6bc17-d1bd-180e-39c9-aade603abb9e",
+                "unit_title": "07",
+                "user_id": "c71439e2-e1e1-a49a-1450-c7a906341946_7_7",
+                "username": "Кудеринова Асия Асқаровна",
+                "login": "AST_AKUD",
+                "logins": [{
+                    "login": "AST_AKUD"
+                }, {
+                    "login": "ASTASIYAK"
+                }],
+                "ts": "2015-12-24T13:52:57.039+0600"
+            },
+            "t_ct": "2015-12-24T14:32:22.203+0600",
+            "t_st": "2015-12-24T14:32:33.771+0600",
+            "t_ft": "2015-12-24T14:39:50.172+0600",
+            "t_lct": "2015-12-24T14:32:22.203+0600"
+        }, {
+            "id": "12b89e33-ad23-417f-baab-dfa7a7bc56db",
+            "title": "0812",
+            "lane_id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+            "lane_title": "Подписка на газеты и журналы",
+            "token_id": "1512247-575",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:09:03.710+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "29f31134-fc68-3171-5930-1e83a448bfcb",
+                "unit_title": "18",
+                "user_id": "dc088fcf-8644-5205-df6c-9992dddb25f5_7_7",
+                "username": "Мукушева Меруэрт Доскеновна",
+                "login": "AST_MERUERTD",
+                "logins": [{
+                    "login": "AST_MERUERTD"
+                }, {
+                    "login": "ASTMERUERTD"
+                }],
+                "ts": "2015-12-24T12:41:56.733+0600"
+            },
+            "t_ct": "2015-12-24T13:43:25.062+0600",
+            "t_st": "2015-12-24T13:44:24.135+0600",
+            "t_ft": "2015-12-24T13:47:18.554+0600",
+            "t_lct": "2015-12-24T13:43:25.062+0600"
+        }, {
+            "id": "aca5fd0a-18cf-46ca-a4d1-01387df9d7df",
+            "title": "1439",
+            "lane_id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+            "lane_title": "Коммунальные и иные платежи",
+            "token_id": "1512247-666",
+            "client": {
+                "title": "-",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T13:45:09.150+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "b635b7a6-7c90-f214-60ef-8a24eeae0cc9",
+                "unit_title": "23",
+                "user_id": "cca13053-adf6-10ff-376e-e9f17acd1272_7_7",
+                "username": "Утеулиева Алуа Алимхановна",
+                "login": "",
+                "logins": [{
+                    "login": "AST_ALUA"
+                }, {
+                    "login": "ASTALUA"
+                }],
+                "ts": "2015-12-24T13:48:06.707+0600"
+            },
+            "t_ct": "2015-12-24T14:26:42.901+0600",
+            "t_st": "2015-12-24T14:27:09.965+0600",
+            "t_ft": "2015-12-24T14:30:18.903+0600",
+            "t_lct": "2015-12-24T14:26:42.901+0600"
+        }, {
+            "id": "a4e047d1-5a59-45a0-8609-d9bafc11442e",
+            "title": "1126",
+            "lane_id": "79806e5e-41d1-8c2b-0e95-28967877584c",
+            "lane_title": "Выдача заказной корреспонденции и мелких пакетов",
+            "token_id": "1512247-752",
+            "client": {
+                "title": "ПАРФИЛОВА  АУЭЗОВА 26-6  МП УЧ 13",
+                "lang": "kk"
+            },
+            "t_ot": "2015-12-24T14:30:54.651+0600",
+            "status": "served",
+            "priority": 0,
+            "operator": {
+                "unit_id": "38b5dde8-d949-906a-4553-a365e6780483",
+                "unit_title": "04",
+                "user_id": "996c7ac9-e293-aef1-4fe3-95ab2774d505_7_7",
+                "username": "Калиева Динара Мирасовна",
+                "login": "11111",
+                "logins": [{
+                    "login": "ASTKDINARA"
+                }],
+                "ts": "2015-12-24T13:11:25.865+0600"
+            },
+            "t_ct": "2015-12-24T14:34:20.630+0600",
+            "t_st": "2015-12-24T14:34:39.576+0600",
+            "t_ft": "2015-12-24T14:36:38.375+0600",
+            "t_lct": "2015-12-24T14:34:20.630+0600"
+        }],
+        "online_operators": [{
+            "unit_id": "99e201e9-0648-0098-0a22-5d12ab6b28a6",
+            "unit_title": "19",
+            "user_id": "2c7c15f5-7983-0e54-4186-cf859b2cedff_7_7",
+            "username": "Бекмаганбет Әліби Маратұлы",
+            "login": "KUR_BEK",
+            "logins": [{
+                "login": "KUR_BEK"
+            }, {
+                "login": "ASTALIBI"
+            }],
+            "ts": "2015-12-24T11:40:34.176+0600"
+        }, {
+            "unit_id": "fd1be671-b17b-46b9-b35c-d80d377fa63b",
+            "unit_title": "16",
+            "user_id": "61b28c57-6934-6fd5-900a-78f8c6215b3b_7_7",
+            "username": "Индира Ибраева",
+            "login": "ASTINDIRT",
+            "logins": [{
+                "login": "ASTINDIRT"
+            }, {
+                "login": "AST_INDIRA1"
+            }],
+            "ts": "2015-12-24T14:11:37.728+0600"
+        }, {
+            "unit_id": "2a3f96ea-2071-cbe5-cdd0-e4a9bc6b514c",
+            "unit_title": "20",
+            "user_id": "4c36c6d4-7c0f-9f25-a207-b4ca175f368f_7_7",
+            "username": "Султанова Ажар",
+            "login": "",
+            "logins": [{
+                "login": "AST_AZHARS"
+            }, {
+                "login": "ASTAZHARS"
+            }, {
+                "login": "ASTAZHARS"
+            }],
+            "ts": "2015-12-24T12:40:21.673+0600"
+        }, {
+            "unit_id": "524ac5c9-c71a-ddff-0e22-06c80db983fd",
+            "unit_title": "02",
+            "user_id": "2658264e-303f-cb8d-48e0-f5a1cd52ce8e_7_7",
+            "username": "Назым Женсебаева",
+            "login": "AST_NAZYM",
+            "logins": [{
+                "login": "AST_NAZYM"
+            }, {
+                "login": "ASTNAZYM"
+            }],
+            "ts": "2015-12-24T12:33:31.008+0600"
+        }, {
+            "unit_id": "ad204f06-c835-9a83-6d5e-dce6ecea0551",
+            "unit_title": "01",
+            "user_id": "b62130b9-f7e1-60d6-5033-a353fdcfc1f8_7_7",
+            "username": "Дидар Абилкасимова",
+            "login": "ASTDIDARA",
+            "logins": [{
+                "login": "ASTDIDARA"
+            }, {
+                "login": "ASTDIDAR"
+            }],
+            "ts": "2015-12-24T13:03:05.991+0600"
+        }, {
+            "unit_id": "b635b7a6-7c90-f214-60ef-8a24eeae0cc9",
+            "unit_title": "23",
+            "user_id": "cca13053-adf6-10ff-376e-e9f17acd1272_7_7",
+            "username": "Утеулиева Алуа Алимхановна",
+            "login": "",
+            "logins": [{
+                "login": "AST_ALUA"
+            }, {
+                "login": "ASTALUA"
+            }],
+            "ts": "2015-12-24T13:48:06.707+0600"
+        }, {
+            "unit_id": "38b5dde8-d949-906a-4553-a365e6780483",
+            "unit_title": "04",
+            "user_id": "996c7ac9-e293-aef1-4fe3-95ab2774d505_7_7",
+            "username": "Калиева Динара Мирасовна",
+            "login": "11111",
+            "logins": [{
+                "login": "ASTKDINARA"
+            }],
+            "ts": "2015-12-24T13:11:25.865+0600"
+        }, {
+            "unit_id": "2249e3c5-c614-d341-c26c-4c86bb111c5b",
+            "unit_title": "03",
+            "user_id": "b3e503d2-41ba-1af9-bf13-5395dc9729e0_7_7",
+            "username": "Жакенова Берекеля",
+            "login": "",
+            "logins": [{
+                "login": "ASTBEREKE"
+            }],
+            "ts": "2015-12-24T11:53:23.562+0600"
+        }, {
+            "unit_id": "9de6bc17-d1bd-180e-39c9-aade603abb9e",
+            "unit_title": "07",
+            "user_id": "c71439e2-e1e1-a49a-1450-c7a906341946_7_7",
+            "username": "Кудеринова Асия Асқаровна",
+            "login": "AST_AKUD",
+            "logins": [{
+                "login": "AST_AKUD"
+            }, {
+                "login": "ASTASIYAK"
+            }],
+            "ts": "2015-12-24T13:52:57.039+0600"
+        }, {
+            "unit_id": "746c3132-a268-6f1f-e107-53a2dd20c071",
+            "unit_title": "08",
+            "user_id": "5ab19b34-014b-3aed-2031-4b44f813dede_7_7",
+            "username": "Уразбаева Айда",
+            "login": "",
+            "logins": [{
+                "login": "ASTAIDAS"
+            }],
+            "ts": "2015-12-24T14:04:48.067+0600"
+        }, {
+            "unit_id": "d9379edc-71ec-cab7-b01a-285fd61919ba",
+            "unit_title": "21",
+            "user_id": "b0c1e7ca-056c-1c2d-6ad4-e6d85e33ab6c_7_7",
+            "username": "Саденова Тогжан",
+            "login": "",
+            "logins": [{
+                "login": "AST_TOGZHANK"
+            }, {
+                "login": "ASTTOGZHANK"
+            }],
+            "ts": "2015-12-24T14:03:27.346+0600"
+        }, {
+            "unit_id": "7aa32277-d910-b14b-6f90-cdc50b9ba248",
+            "unit_title": "11",
+            "user_id": "215e4308-069e-1e55-4858-2e28d9179e94_7_7",
+            "username": "Магрупова Анара Булатовна",
+            "login": "AST_ANARAM",
+            "logins": [{
+                "login": "AST_ANARAM"
+            }, {
+                "login": "ASTANARAM"
+            }],
+            "ts": "2015-12-24T13:34:02.224+0600"
+        }, {
+            "unit_id": "21b27f02-5377-196f-717f-2b13b6d78653",
+            "unit_title": "12",
+            "user_id": "4081042f-b7f1-f0b4-d7f2-383499c1e664_7_7",
+            "username": "Кушербаев Даулет",
+            "login": "",
+            "logins": [{
+                "login": "AST_DAULETK"
+            }],
+            "ts": "2015-12-24T14:40:27.310+0600"
+        }, {
+            "unit_id": "f2b14a03-fbd4-20e5-e6c2-aa603c46f31c",
+            "unit_title": "22",
+            "user_id": "42289b30-e0d3-775b-68f4-f1ae89a3f887_7_7",
+            "username": "Жакутова Жибек Балтемировна",
+            "login": "",
+            "logins": [{
+                "login": "AST_ZHIBEK"
+            }, {
+                "login": "ASTZHIBEK"
+            }],
+            "ts": "2015-12-24T13:37:31.100+0600"
+        }, {
+            "unit_id": "845e3daa-a852-9643-b351-929656d52294",
+            "unit_title": "06",
+            "user_id": "a5396bf7-97a8-2cc2-edcb-7365fe92137e_7_7",
+            "username": "Гульсум Капарова",
+            "login": "AST_GUL",
+            "logins": [{
+                "login": "AST_GUL"
+            }, {
+                "login": "ASTGULSIM"
+            }],
+            "ts": "2015-12-24T12:37:14.861+0600"
+        }, {
+            "unit_id": "86785823-3fc1-c7b4-a8fa-9468428540c6",
+            "unit_title": "24",
+            "user_id": "6e84c280-b167-99c4-db06-eae1aeefc550_7_7",
+            "username": "Муконова Айгерим Абдыкадыровна",
+            "login": "",
+            "logins": [{
+                "login": "AST_AIGERM"
+            }, {
+                "login": "ASTAIGERM"
+            }],
+            "ts": "2015-12-24T13:42:14.097+0600"
+        }, {
+            "unit_id": "3c0b75bc-37c1-6ebd-a168-1086643fe041",
+            "unit_title": "15",
+            "user_id": "a99887ba-8f14-d9ad-e3a0-462dffaec40f_7_7",
+            "username": "Серикбаев Шынгыс Даулетович",
+            "login": "ASTSHINGIS",
+            "logins": [{
+                "login": "ASTSHINGIS"
+            }, {
+                "login": "AST_SHYNGYSM"
+            }, {
+                "login": "AST_SHINGIS1"
+            }],
+            "ts": "2015-12-24T14:01:05.087+0600"
+        }],
+        "online_kiosks": [{
+            "id": "dcd3d7b7-f762-5374-d7e7-0637f108c325_7",
+            "title": "Kiosk_admin_tsou",
+            "permission": false,
+            "lanes": ["r:75f8b33b-45ce-83d3-69de-55a8db5033f0", "r:6d8dcb7e-0247-9c7e-b2c4-934556d46f9c", "r:3e28dd70-d739-4d69-3454-89646f5d6dc2", "r:da4a1295-f614-39b4-470b-989ac1b7709d", "2c70d500-9239-a517-621c-fd73746773fc", "r:f178a280-156e-75f9-cce3-3bfe73823e5d", "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446", "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb", "r:271e3b39-1341-1c39-bbca-f48f631b3ae2", "r:9044c704-c368-9d70-7be2-326c547d8995", "r:9e542b69-88ad-1447-461c-cd9c1451195f", "r:e142e6b6-242c-d261-f5a1-cb0e579724bf", "r:2813a414-039e-ef08-e66e-590623f9a37c", "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468", "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533", "r:c52e93dc-e6c7-bc2f-f5af-9ef71bb9ab3a", "r:ba8174ad-a3a5-8eff-5897-8239a2dd8cc9", "r:af218906-b4c2-dd0e-01be-f07550c074a7", "r:4e21a59b-a018-87df-87dd-f457ecc20a94", "r:9c212ad0-7054-47df-fab9-654319c4c614", "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc", "r:4737b8dc-aa1f-c62d-a423-4f8f769a280f", "r:82fab477-392a-3db2-3e36-902d52730714", "r:ba14a812-56ed-5613-4614-ac463d5b6e7f", "r:582cf07d-9bf7-d04b-2d22-e9ea8af63a0e", "79806e5e-41d1-8c2b-0e95-28967877584c", "28589886-38ad-d24c-343f-e6ed1635484e", "r:01684810-5743-e49d-4177-ea078b04141a", "r:830e2648-46fe-ffac-f76f-f20873827072", "r:b42f4bef-2c44-b21c-3c35-8dc61fa49779", "r:863b11a8-ab1e-bfbf-cd25-78a673c47769", "r:9e7267c8-7387-aa8f-833a-6dd866ea52c4"],
+            "extra_text": "Оцените обслуживание приложив штрих-код к сканеру либо введите вручную.",
+            "extra_text_kaz": "Штрих-кодты сканерге өткізіп немесе қолмен енгізіп қызмет көрсету сапасын бағалаңыз.",
+            "play_audio": false,
+            "play_audio_with_delay": false,
+            "narrow_print": true,
+            "paper": 0,
+            "paper_rep_date": 1450154283088,
+            "type": "kiosk"
+        }],
+        "offline_kiosks": [{
+            "id": "342a82a9-d5b2-cdb7-e4d7-41a658df4587",
+            "title": "Kiosk1",
+            "permission": false,
+            "lanes": ["r:75f8b33b-45ce-83d3-69de-55a8db5033f0", "r:6d8dcb7e-0247-9c7e-b2c4-934556d46f9c", "r:3e28dd70-d739-4d69-3454-89646f5d6dc2", "r:da4a1295-f614-39b4-470b-989ac1b7709d", "2c70d500-9239-a517-621c-fd73746773fc", "r:f178a280-156e-75f9-cce3-3bfe73823e5d", "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446", "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb", "r:271e3b39-1341-1c39-bbca-f48f631b3ae2", "r:9044c704-c368-9d70-7be2-326c547d8995", "r:9e542b69-88ad-1447-461c-cd9c1451195f", "r:e142e6b6-242c-d261-f5a1-cb0e579724bf", "r:2813a414-039e-ef08-e66e-590623f9a37c", "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468", "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533", "r:c52e93dc-e6c7-bc2f-f5af-9ef71bb9ab3a", "r:ba8174ad-a3a5-8eff-5897-8239a2dd8cc9", "r:af218906-b4c2-dd0e-01be-f07550c074a7", "r:4e21a59b-a018-87df-87dd-f457ecc20a94", "r:9c212ad0-7054-47df-fab9-654319c4c614", "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc", "r:4737b8dc-aa1f-c62d-a423-4f8f769a280f", "r:82fab477-392a-3db2-3e36-902d52730714", "r:ba14a812-56ed-5613-4614-ac463d5b6e7f", "r:582cf07d-9bf7-d04b-2d22-e9ea8af63a0e", "79806e5e-41d1-8c2b-0e95-28967877584c", "28589886-38ad-d24c-343f-e6ed1635484e", "r:01684810-5743-e49d-4177-ea078b04141a", "r:830e2648-46fe-ffac-f76f-f20873827072", "r:b42f4bef-2c44-b21c-3c35-8dc61fa49779", "r:863b11a8-ab1e-bfbf-cd25-78a673c47769", "r:9e7267c8-7387-aa8f-833a-6dd866ea52c4"],
+            "extra_text": "Оцените обслуживание приложив штрих-код к сканеру либо введите вручную.",
+            "extra_text_kaz": "Штрих-кодты сканерге өткізіп немесе қолмен енгізіп қызмет көрсету сапасын бағалаңыз.",
+            "play_audio": true,
+            "play_audio_with_delay": false,
+            "narrow_print": false,
+            "paper": 0,
+            "paper_rep_date": 1443232023103,
+            "type": "kiosk"
+        }, {
+            "id": "5cf2791f-97a9-77ce-b157-745e5b101182",
+            "title": "Kiosk",
+            "permission": false,
+            "lanes": ["r:75f8b33b-45ce-83d3-69de-55a8db5033f0", "r:6d8dcb7e-0247-9c7e-b2c4-934556d46f9c", "r:3e28dd70-d739-4d69-3454-89646f5d6dc2", "r:da4a1295-f614-39b4-470b-989ac1b7709d", "2c70d500-9239-a517-621c-fd73746773fc", "r:f178a280-156e-75f9-cce3-3bfe73823e5d", "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446", "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb", "r:271e3b39-1341-1c39-bbca-f48f631b3ae2", "r:9044c704-c368-9d70-7be2-326c547d8995", "r:9e542b69-88ad-1447-461c-cd9c1451195f", "r:e142e6b6-242c-d261-f5a1-cb0e579724bf", "r:2813a414-039e-ef08-e66e-590623f9a37c", "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468", "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533", "r:c52e93dc-e6c7-bc2f-f5af-9ef71bb9ab3a", "r:ba8174ad-a3a5-8eff-5897-8239a2dd8cc9", "r:af218906-b4c2-dd0e-01be-f07550c074a7", "r:4e21a59b-a018-87df-87dd-f457ecc20a94", "r:9c212ad0-7054-47df-fab9-654319c4c614", "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc", "r:4737b8dc-aa1f-c62d-a423-4f8f769a280f", "r:82fab477-392a-3db2-3e36-902d52730714", "r:ba14a812-56ed-5613-4614-ac463d5b6e7f", "r:582cf07d-9bf7-d04b-2d22-e9ea8af63a0e", "79806e5e-41d1-8c2b-0e95-28967877584c", "28589886-38ad-d24c-343f-e6ed1635484e", "r:01684810-5743-e49d-4177-ea078b04141a", "r:830e2648-46fe-ffac-f76f-f20873827072", "r:b42f4bef-2c44-b21c-3c35-8dc61fa49779", "r:863b11a8-ab1e-bfbf-cd25-78a673c47769", "r:9e7267c8-7387-aa8f-833a-6dd866ea52c4"],
+            "extra_text": "Оцените обслуживание приложив штрих-код к сканеру либо введите вручную.",
+            "extra_text_kaz": "Штрих-кодты сканерге өткізіп немесе қолмен енгізіп қызмет көрсету сапасын бағалаңыз.",
+            "play_audio": true,
+            "play_audio_with_delay": false,
+            "narrow_print": false,
+            "paper": 0,
+            "paper_rep_date": 1443232023101,
+            "type": "kiosk"
+        }],
+        "online_dashs": [{
+            "id": "90186566-ddd3-ae38-c911-17040c94d67f",
+            "title": "dashboard1",
+            "permission": false,
+            "ticker": "Уважаемые клиенты! В городах Астана Алматы и Караганда запущен сервис по доставке отправлений  в постаматы. Теперь вы сможете забирать свои посылки в удобное время в удобном месте. Подробная информация о правилах пользования и местах размещения постаматов на веб-сайте www.kazpost.kz.           Құрметті клиеннтер! Астана, Алматы және Қарағанды қалаларында жөнелтімдерді постамат арқылы жеткізу қызметі іске қосылды. Енді Сіз сәлемдемелеріңізді ыңғайлы жерде ыңғайлы уақытта ала аласыз. Постаматтардың орналасу мекенөжайлары және қолдану ережелері жөнінде толық ақпаратты www.kazpost.kz веб-сайтынан таба аласыз.",
+            "lanes": ["r:582cf07d-9bf7-d04b-2d22-e9ea8af63a0e", "r:863b11a8-ab1e-bfbf-cd25-78a673c47769", "r:01684810-5743-e49d-4177-ea078b04141a", "r:830e2648-46fe-ffac-f76f-f20873827072", "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb", "r:9044c704-c368-9d70-7be2-326c547d8995", "28589886-38ad-d24c-343f-e6ed1635484e", "2c70d500-9239-a517-621c-fd73746773fc", "r:82fab477-392a-3db2-3e36-902d52730714", "r:c52e93dc-e6c7-bc2f-f5af-9ef71bb9ab3a", "r:f178a280-156e-75f9-cce3-3bfe73823e5d", "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc", "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468", "r:e142e6b6-242c-d261-f5a1-cb0e579724bf", "r:3e28dd70-d739-4d69-3454-89646f5d6dc2", "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533", "r:af218906-b4c2-dd0e-01be-f07550c074a7", "r:75f8b33b-45ce-83d3-69de-55a8db5033f0", "r:ba8174ad-a3a5-8eff-5897-8239a2dd8cc9", "r:9e7267c8-7387-aa8f-833a-6dd866ea52c4", "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446", "r:271e3b39-1341-1c39-bbca-f48f631b3ae2", "r:4737b8dc-aa1f-c62d-a423-4f8f769a280f", "79806e5e-41d1-8c2b-0e95-28967877584c", "r:da4a1295-f614-39b4-470b-989ac1b7709d", "r:9c212ad0-7054-47df-fab9-654319c4c614", "r:b42f4bef-2c44-b21c-3c35-8dc61fa49779", "r:ba14a812-56ed-5613-4614-ac463d5b6e7f", "r:9e542b69-88ad-1447-461c-cd9c1451195f", "r:4e21a59b-a018-87df-87dd-f457ecc20a94", "r:6d8dcb7e-0247-9c7e-b2c4-934556d46f9c", "r:2813a414-039e-ef08-e66e-590623f9a37c"],
+            "display": "number",
+            "play_audio": false,
+            "play_video": false,
+            "audio_list": ["media/c8ecbf03666cfee1b1b7f68434742aedb73e56000f0e276c214fb2451b81f4a7d5deb51f5798f7b2da410315fda5ca491fa8ef5ed8999c5d4ed86cd66262b799", "media/80b69ced6a56d184a001e20cc52075b76fb7e79d3a4e2192b74d4ed26c8ede66ed2725b2ea020d58ab0f20d9679549c6e1b3a43b0112430916ce82e64802f144", "media/36165cd194413c8217234303d62a4d71acf4ea61ffbed5a83036722be345cd2b252dac8bcf41be5c2ae0de20b3beb6352ace95f346d0830e69afe47fede34b77", "media/24eb249ece2c5379dce78fdaf5312f12895b516f28f8555b8d9803afa701f8f47e9d9809b344c6a86ec2a612a0473e6b63557bdd5e080210da974390a23cb2be", "media/fb4572fc83d9d72cedd8c35baeec16d0debae4031e7dcc7d89835b5d480abed2be93c04e994e22bfef37add7051827f2c3410a2ae27ac68ccf817725f49000ca", "media/75f7f8408c3f14466915292eea8ada015105d0c4dee704befd671c6890ac0e82cbd3c40381ceaa42a64d3c0dc18def3aa8768052dca4539fb70b1d478de44403", "media/83b6226dc8aa5b2fbce6c19829c80b7fcd1164691bc659b7de360227b78b8014581971c2e825033e1406df51d115210bd330fb771aea7c4425da4643e232f13e", "media/70c0d73622dbd95c790167df3da581b6095c87be5587f2d6f70c0b5e92a65ee14b3d7c3777180e510ce97d70780ecc5dbd0d9a23b12ba3c526cf1527a4080d6e", "media/251a43df4b6591fd2c58ce8748a932b651a8493932185d459da0d13cfe7330c01663b53684e9a8c228df73855c0ca4f39f819cf6888aca7b931d7267b533b5fa", "media/059c07ac46d8b1ada354da7b30e98bd17ef24be772234a72f543dcee2a3bd2cb19f0d5f039066953068e16df6226b9448c1865ac43e79ed89fcb950501dc11fa", "media/228a46a885eb0483b1784be9085a1068eb16997ebebd3012476e659a9110af40d706ea5222c0165723954b956f8f6b23c3d0ecc3789d8f9e17fbaa0e61776410", "media/dfb8cabd4bc0d3f6f2a6462382ad831c6b4fb19f6587968a489df309d4407f1008872c95320a3f51559ded4b9415b3234c4a8242a1dc65196285921d3f153918"],
+            "video_list": ["media/bd61725cd87f0043f0992fc6a35b488d29fb87c280edeb13e3d05bba1dc0378c8e1e15e5d5a38565be06d7e2bab1a7367ddaee90a98ee419c68ebee643048721", "media/98c4d0322db143c2dcf9fc57703809661c263ddc8c8f3d359135083bd018cbcb52365f8013db9655985ade84a45eb88cb5b2a86257a56b5c24699af3a2f6b892", "media/bb84ce0386f208b92201719ed2dd4d24e386d90a7cdf71453a3d732edd2270fb2d785d74a0fb57bb4c56bed2762690fa8ea2cb4e8e6027c463d8ec4c90844531", "media/3151be178aa04b6e4e2294727f4b6d0bad261b1046f34058e0e0006271aa1caed62f6f4f9ff59ae22ccf709395da0c097f0a45c8566f541648c4bf4a8a35db62", "media/01846616b7389ca35d1c6ba4e9cd3202adb315f8e78c5990820e131bdd691f81a6b7bff84763d9ea69f7e68a0267c55fa1e40692eb0298a5a4ef28ecd0141569", "media/2e7bb1e293285a9913dc15fa529e8c565062275d9a624a2993f63b73091afed1384822f7ec37d175e36f082cb0ee088db5594b0e9845fdeab5fe5ff5c732cc4c", "media/293ab343029fc59bbec4b175ba6ff1ad63b6393f1b7f6e9c4eda84a1f45f423f64f5fd5baaeaf46fff18ca66fb409e4f9d8a195676e0f62ee7fea05efbef474b"],
+            "streamer_host": "http://10.10.18.11:8080/",
+            "audio_delay": 10,
+            "type": "dashboard"
+        }, {
+            "id": "42483f11-d18a-d6a5-928b-34c73fd32d2f",
+            "title": "dashkladovka2",
+            "permission": false,
+            "ticker": "",
+            "lanes": ["r:3a48e589-26e6-d9fa-101f-a34a6a3bf446", "r:9c212ad0-7054-47df-fab9-654319c4c614", "28589886-38ad-d24c-343f-e6ed1635484e"],
+            "display": "title",
+            "play_audio": false,
+            "play_video": false,
+            "audio_list": [],
+            "video_list": [],
+            "type": "dashboard"
+        }],
+        "offline_dashs": [{
+            "id": "8e257112-cf4d-ed7d-4b08-07a899c0f20c",
+            "title": "dashboard3",
+            "permission": false,
+            "ticker": "Уважаемые клиенты! В городах Астана Алматы и Караганда запущен сервис по доставке отправлений  в постаматы. Теперь вы сможете забирать свои посылки в удобное время в удобном месте. Подробная информация о правилах пользования и местах размещения постаматов на веб-сайте www.kazpost.kz.           Құрметті клиеннтер! Астана, Алматы және Қарағанды қалаларында жөнелтімдерді постамат арқылы жеткізу қызметі іске қосылды. Енді Сіз сәлемдемелеріңізді ыңғайлы жерде ыңғайлы уақытта ала аласыз. Постаматтардың орналасу мекенөжайлары және қолдану ережелері жөнінде толық ақпаратты www.kazpost.kz веб-сайтынан таба аласыз.",
+            "lanes": ["r:582cf07d-9bf7-d04b-2d22-e9ea8af63a0e", "r:863b11a8-ab1e-bfbf-cd25-78a673c47769", "r:01684810-5743-e49d-4177-ea078b04141a", "r:830e2648-46fe-ffac-f76f-f20873827072", "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb", "r:9044c704-c368-9d70-7be2-326c547d8995", "28589886-38ad-d24c-343f-e6ed1635484e", "2c70d500-9239-a517-621c-fd73746773fc", "r:82fab477-392a-3db2-3e36-902d52730714", "r:c52e93dc-e6c7-bc2f-f5af-9ef71bb9ab3a", "r:f178a280-156e-75f9-cce3-3bfe73823e5d", "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc", "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468", "r:e142e6b6-242c-d261-f5a1-cb0e579724bf", "r:3e28dd70-d739-4d69-3454-89646f5d6dc2", "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533", "r:af218906-b4c2-dd0e-01be-f07550c074a7", "r:75f8b33b-45ce-83d3-69de-55a8db5033f0", "r:ba8174ad-a3a5-8eff-5897-8239a2dd8cc9", "r:9e7267c8-7387-aa8f-833a-6dd866ea52c4", "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446", "r:271e3b39-1341-1c39-bbca-f48f631b3ae2", "r:4737b8dc-aa1f-c62d-a423-4f8f769a280f", "79806e5e-41d1-8c2b-0e95-28967877584c", "r:da4a1295-f614-39b4-470b-989ac1b7709d", "r:9c212ad0-7054-47df-fab9-654319c4c614", "r:b42f4bef-2c44-b21c-3c35-8dc61fa49779", "r:ba14a812-56ed-5613-4614-ac463d5b6e7f", "r:9e542b69-88ad-1447-461c-cd9c1451195f", "r:4e21a59b-a018-87df-87dd-f457ecc20a94", "r:6d8dcb7e-0247-9c7e-b2c4-934556d46f9c", "r:2813a414-039e-ef08-e66e-590623f9a37c"],
+            "display": "number",
+            "play_audio": false,
+            "play_video": false,
+            "audio_list": ["media/c8ecbf03666cfee1b1b7f68434742aedb73e56000f0e276c214fb2451b81f4a7d5deb51f5798f7b2da410315fda5ca491fa8ef5ed8999c5d4ed86cd66262b799", "media/80b69ced6a56d184a001e20cc52075b76fb7e79d3a4e2192b74d4ed26c8ede66ed2725b2ea020d58ab0f20d9679549c6e1b3a43b0112430916ce82e64802f144", "media/36165cd194413c8217234303d62a4d71acf4ea61ffbed5a83036722be345cd2b252dac8bcf41be5c2ae0de20b3beb6352ace95f346d0830e69afe47fede34b77", "media/24eb249ece2c5379dce78fdaf5312f12895b516f28f8555b8d9803afa701f8f47e9d9809b344c6a86ec2a612a0473e6b63557bdd5e080210da974390a23cb2be", "media/fb4572fc83d9d72cedd8c35baeec16d0debae4031e7dcc7d89835b5d480abed2be93c04e994e22bfef37add7051827f2c3410a2ae27ac68ccf817725f49000ca", "media/75f7f8408c3f14466915292eea8ada015105d0c4dee704befd671c6890ac0e82cbd3c40381ceaa42a64d3c0dc18def3aa8768052dca4539fb70b1d478de44403", "media/83b6226dc8aa5b2fbce6c19829c80b7fcd1164691bc659b7de360227b78b8014581971c2e825033e1406df51d115210bd330fb771aea7c4425da4643e232f13e", "media/70c0d73622dbd95c790167df3da581b6095c87be5587f2d6f70c0b5e92a65ee14b3d7c3777180e510ce97d70780ecc5dbd0d9a23b12ba3c526cf1527a4080d6e", "media/251a43df4b6591fd2c58ce8748a932b651a8493932185d459da0d13cfe7330c01663b53684e9a8c228df73855c0ca4f39f819cf6888aca7b931d7267b533b5fa", "media/059c07ac46d8b1ada354da7b30e98bd17ef24be772234a72f543dcee2a3bd2cb19f0d5f039066953068e16df6226b9448c1865ac43e79ed89fcb950501dc11fa", "media/228a46a885eb0483b1784be9085a1068eb16997ebebd3012476e659a9110af40d706ea5222c0165723954b956f8f6b23c3d0ecc3789d8f9e17fbaa0e61776410", "media/dfb8cabd4bc0d3f6f2a6462382ad831c6b4fb19f6587968a489df309d4407f1008872c95320a3f51559ded4b9415b3234c4a8242a1dc65196285921d3f153918"],
+            "video_list": ["media/98c4d0322db143c2dcf9fc57703809661c263ddc8c8f3d359135083bd018cbcb52365f8013db9655985ade84a45eb88cb5b2a86257a56b5c24699af3a2f6b892", "media/3151be178aa04b6e4e2294727f4b6d0bad261b1046f34058e0e0006271aa1caed62f6f4f9ff59ae22ccf709395da0c097f0a45c8566f541648c4bf4a8a35db62", "media/01846616b7389ca35d1c6ba4e9cd3202adb315f8e78c5990820e131bdd691f81a6b7bff84763d9ea69f7e68a0267c55fa1e40692eb0298a5a4ef28ecd0141569"],
+            "streamer_host": "http://10.10.18.11:8080/",
+            "audio_delay": 10,
+            "type": "dashboard"
+        }, {
+            "id": "dd053f89-2bda-a86a-fe1a-6fe596667ac8",
+            "title": "dashboard2",
+            "permission": false,
+            "ticker": "Уважаемые клиенты! В городах Астана Алматы и Караганда запущен сервис по доставке отправлений  в постаматы. Теперь вы сможете забирать свои посылки в удобное время в удобном месте. Подробная информация о правилах пользования и местах размещения постаматов на веб-сайте www.kazpost.kz.           Құрметті клиеннтер! Астана, Алматы және Қарағанды қалаларында жөнелтімдерді постамат арқылы жеткізу қызметі іске қосылды. Енді Сіз сәлемдемелеріңізді ыңғайлы жерде ыңғайлы уақытта ала аласыз. Постаматтардың орналасу мекенөжайлары және қолдану ережелері жөнінде толық ақпаратты www.kazpost.kz веб-сайтынан таба аласыз.",
+            "lanes": ["r:582cf07d-9bf7-d04b-2d22-e9ea8af63a0e", "r:863b11a8-ab1e-bfbf-cd25-78a673c47769", "r:01684810-5743-e49d-4177-ea078b04141a", "r:830e2648-46fe-ffac-f76f-f20873827072", "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb", "r:9044c704-c368-9d70-7be2-326c547d8995", "28589886-38ad-d24c-343f-e6ed1635484e", "2c70d500-9239-a517-621c-fd73746773fc", "r:82fab477-392a-3db2-3e36-902d52730714", "r:c52e93dc-e6c7-bc2f-f5af-9ef71bb9ab3a", "r:f178a280-156e-75f9-cce3-3bfe73823e5d", "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc", "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468", "r:e142e6b6-242c-d261-f5a1-cb0e579724bf", "r:3e28dd70-d739-4d69-3454-89646f5d6dc2", "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533", "r:af218906-b4c2-dd0e-01be-f07550c074a7", "r:75f8b33b-45ce-83d3-69de-55a8db5033f0", "r:ba8174ad-a3a5-8eff-5897-8239a2dd8cc9", "r:9e7267c8-7387-aa8f-833a-6dd866ea52c4", "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446", "r:271e3b39-1341-1c39-bbca-f48f631b3ae2", "r:4737b8dc-aa1f-c62d-a423-4f8f769a280f", "79806e5e-41d1-8c2b-0e95-28967877584c", "r:da4a1295-f614-39b4-470b-989ac1b7709d", "r:9c212ad0-7054-47df-fab9-654319c4c614", "r:b42f4bef-2c44-b21c-3c35-8dc61fa49779", "r:ba14a812-56ed-5613-4614-ac463d5b6e7f", "r:9e542b69-88ad-1447-461c-cd9c1451195f", "r:4e21a59b-a018-87df-87dd-f457ecc20a94", "r:6d8dcb7e-0247-9c7e-b2c4-934556d46f9c", "r:2813a414-039e-ef08-e66e-590623f9a37c"],
+            "display": "number",
+            "play_audio": false,
+            "play_video": false,
+            "audio_list": ["media/c8ecbf03666cfee1b1b7f68434742aedb73e56000f0e276c214fb2451b81f4a7d5deb51f5798f7b2da410315fda5ca491fa8ef5ed8999c5d4ed86cd66262b799", "media/80b69ced6a56d184a001e20cc52075b76fb7e79d3a4e2192b74d4ed26c8ede66ed2725b2ea020d58ab0f20d9679549c6e1b3a43b0112430916ce82e64802f144", "media/36165cd194413c8217234303d62a4d71acf4ea61ffbed5a83036722be345cd2b252dac8bcf41be5c2ae0de20b3beb6352ace95f346d0830e69afe47fede34b77", "media/24eb249ece2c5379dce78fdaf5312f12895b516f28f8555b8d9803afa701f8f47e9d9809b344c6a86ec2a612a0473e6b63557bdd5e080210da974390a23cb2be", "media/fb4572fc83d9d72cedd8c35baeec16d0debae4031e7dcc7d89835b5d480abed2be93c04e994e22bfef37add7051827f2c3410a2ae27ac68ccf817725f49000ca", "media/75f7f8408c3f14466915292eea8ada015105d0c4dee704befd671c6890ac0e82cbd3c40381ceaa42a64d3c0dc18def3aa8768052dca4539fb70b1d478de44403", "media/83b6226dc8aa5b2fbce6c19829c80b7fcd1164691bc659b7de360227b78b8014581971c2e825033e1406df51d115210bd330fb771aea7c4425da4643e232f13e", "media/70c0d73622dbd95c790167df3da581b6095c87be5587f2d6f70c0b5e92a65ee14b3d7c3777180e510ce97d70780ecc5dbd0d9a23b12ba3c526cf1527a4080d6e", "media/251a43df4b6591fd2c58ce8748a932b651a8493932185d459da0d13cfe7330c01663b53684e9a8c228df73855c0ca4f39f819cf6888aca7b931d7267b533b5fa", "media/059c07ac46d8b1ada354da7b30e98bd17ef24be772234a72f543dcee2a3bd2cb19f0d5f039066953068e16df6226b9448c1865ac43e79ed89fcb950501dc11fa", "media/228a46a885eb0483b1784be9085a1068eb16997ebebd3012476e659a9110af40d706ea5222c0165723954b956f8f6b23c3d0ecc3789d8f9e17fbaa0e61776410", "media/dfb8cabd4bc0d3f6f2a6462382ad831c6b4fb19f6587968a489df309d4407f1008872c95320a3f51559ded4b9415b3234c4a8242a1dc65196285921d3f153918"],
+            "video_list": ["media/98c4d0322db143c2dcf9fc57703809661c263ddc8c8f3d359135083bd018cbcb52365f8013db9655985ade84a45eb88cb5b2a86257a56b5c24699af3a2f6b892", "media/3151be178aa04b6e4e2294727f4b6d0bad261b1046f34058e0e0006271aa1caed62f6f4f9ff59ae22ccf709395da0c097f0a45c8566f541648c4bf4a8a35db62", "media/01846616b7389ca35d1c6ba4e9cd3202adb315f8e78c5990820e131bdd691f81a6b7bff84763d9ea69f7e68a0267c55fa1e40692eb0298a5a4ef28ecd0141569"],
+            "streamer_host": "http://10.10.18.11:8080/",
+            "audio_delay": 5,
+            "type": "dashboard"
+        }, {
+            "id": "04f3b31d-e5d2-5d82-f916-252d8bdd9130",
+            "title": "dashkladovka1",
+            "permission": false,
+            "ticker": "",
+            "lanes": ["r:3a48e589-26e6-d9fa-101f-a34a6a3bf446", "28589886-38ad-d24c-343f-e6ed1635484e"],
+            "display": "number",
+            "play_audio": false,
+            "play_video": false,
+            "audio_list": [],
+            "video_list": [],
+            "type": "dashboard"
+        }],
+        "last_operators": [{
+            "unit_id": "d9379edc-71ec-cab7-b01a-285fd61919ba",
+            "unit_title": "21",
+            "user_id": "058f9926-33db-543c-a80c-9454e2531a78_7_7",
+            "username": "Онласын Даурен Лесұлы",
+            "login": "AST_DAUREN",
+            "logins": [],
+            "ts": 1450942255718,
+            "logout": 1450942273887
+        }, {
+            "unit_id": "55ca8d8d-d558-65cf-37eb-796e94457300",
+            "unit_title": "09",
+            "user_id": "dafbf8c7-8bc0-d0f1-d400-517bdf2d49c0_7_7",
+            "username": "Нұрғали Жарқынай",
+            "login": "AST_ZHARKYN",
+            "logins": [{
+                "login": "AST_ZHARKYN"
+            }, {
+                "login": "ASTZHARKYN"
+            }],
+            "ts": 1450943396891,
+            "logout": 1450944898969
+        }, {
+            "unit_id": "845e3daa-a852-9643-b351-929656d52294",
+            "unit_title": "06",
+            "user_id": "a5396bf7-97a8-2cc2-edcb-7365fe92137e_7_7",
+            "username": "Гульсум Капарова",
+            "login": "AST_GUL",
+            "logins": [{
+                "login": "AST_GUL"
+            }, {
+                "login": "ASTGULSIM"
+            }],
+            "ts": 1450935702787,
+            "logout": 1450936717378
+        }, {
+            "unit_id": "7aa32277-d910-b14b-6f90-cdc50b9ba248",
+            "unit_title": "11",
+            "user_id": "215e4308-069e-1e55-4858-2e28d9179e94_7_7",
+            "username": "Магрупова Анара Булатовна",
+            "login": "AST_ANARAM",
+            "logins": [{
+                "login": "AST_ANARAM"
+            }, {
+                "login": "ASTANARAM"
+            }],
+            "ts": 1450940429463,
+            "logout": 1450942438695
+        }, {
+            "unit_id": "0e163f1b-7c03-df73-2ddd-37980fda0a32",
+            "unit_title": "17",
+            "user_id": "5d2886b2-816b-dc19-788e-4d2c9349232d_7_7",
+            "username": "Инабат Капырахимова",
+            "login": "AST_INABAT",
+            "logins": [{
+                "login": "AST_INABAT"
+            }, {
+                "login": "ASTINABAT"
+            }],
+            "ts": 1450943529775,
+            "logout": 1450943646660
+        }, {
+            "unit_id": "2a3f96ea-2071-cbe5-cdd0-e4a9bc6b514c",
+            "unit_title": "20",
+            "user_id": "4c36c6d4-7c0f-9f25-a207-b4ca175f368f_7_7",
+            "username": "Султанова Ажар",
+            "login": "",
+            "logins": [{
+                "login": "AST_AZHARS"
+            }, {
+                "login": "ASTAZHARS"
+            }, {
+                "login": "ASTAZHARS"
+            }],
+            "ts": 1450922344715,
+            "logout": 1450936552033
+        }, {
+            "unit_id": "fd1be671-b17b-46b9-b35c-d80d377fa63b",
+            "unit_title": "16",
+            "user_id": "61b28c57-6934-6fd5-900a-78f8c6215b3b_7_7",
+            "username": "Индира Ибраева",
+            "login": "ASTINDIRT",
+            "logins": [{
+                "login": "ASTINDIRT"
+            }, {
+                "login": "AST_INDIRA1"
+            }],
+            "ts": 1450939403807,
+            "logout": 1450943660456
+        }, {
+            "unit_id": "21b27f02-5377-196f-717f-2b13b6d78653",
+            "unit_title": "12",
+            "user_id": "4081042f-b7f1-f0b4-d7f2-383499c1e664_7_7",
+            "username": "Кушербаев Даулет",
+            "login": "",
+            "logins": [{
+                "login": "AST_DAULETK"
+            }],
+            "ts": 1450926138168,
+            "logout": 1450943869984
+        }, {
+            "unit_id": "86785823-3fc1-c7b4-a8fa-9468428540c6",
+            "unit_title": "24",
+            "user_id": "cca13053-adf6-10ff-376e-e9f17acd1272_7_7",
+            "username": "Утеулиева Алуа Алимхановна",
+            "login": "",
+            "logins": [{
+                "login": "AST_ALUA"
+            }, {
+                "login": "ASTALUA"
+            }],
+            "ts": 1450940193310,
+            "logout": 1450942789298
+        }, {
+            "unit_id": "9de6bc17-d1bd-180e-39c9-aade603abb9e",
+            "unit_title": "07",
+            "user_id": "c71439e2-e1e1-a49a-1450-c7a906341946_7_7",
+            "username": "Кудеринова Асия Асқаровна",
+            "login": "AST_AKUD",
+            "logins": [{
+                "login": "AST_AKUD"
+            }, {
+                "login": "ASTASIYAK"
+            }],
+            "ts": 1450927308490,
+            "logout": 1450939387025
+        }, {
+            "unit_id": "746c3132-a268-6f1f-e107-53a2dd20c071",
+            "unit_title": "08",
+            "user_id": "5ab19b34-014b-3aed-2031-4b44f813dede_7_7",
+            "username": "Уразбаева Айда",
+            "login": "",
+            "logins": [{
+                "login": "ASTAIDAS"
+            }],
+            "ts": 1450944159994,
+            "logout": 1450944277193
+        }, {
+            "unit_id": "2249e3c5-c614-d341-c26c-4c86bb111c5b",
+            "unit_title": "03",
+            "user_id": "b3e503d2-41ba-1af9-bf13-5395dc9729e0_7_7",
+            "username": "Жакенова Берекеля",
+            "login": "",
+            "logins": [{
+                "login": "ASTBEREKE"
+            }],
+            "ts": 1450926717696,
+            "logout": 1450935766803
+        }, {
+            "unit_id": "ad204f06-c835-9a83-6d5e-dce6ecea0551",
+            "unit_title": "01",
+            "user_id": "b62130b9-f7e1-60d6-5033-a353fdcfc1f8_7_7",
+            "username": "Дидар Абилкасимова",
+            "login": "ASTDIDARA",
+            "logins": [{
+                "login": "ASTDIDARA"
+            }, {
+                "login": "ASTDIDAR"
+            }],
+            "ts": 1450922518018,
+            "logout": 1450938467863
+        }, {
+            "unit_id": "4c9e30b5-c320-7c1a-d909-b2f24eff9fb2",
+            "unit_title": "10",
+            "user_id": "215e4308-069e-1e55-4858-2e28d9179e94_7_7",
+            "username": "Магрупова Анара Булатовна",
+            "login": "AST_ANARAM",
+            "logins": [{
+                "login": "AST_ANARAM"
+            }, {
+                "login": "ASTANARAM"
+            }],
+            "ts": 1450929420762,
+            "logout": 1450929456706
+        }, {
+            "unit_id": "f2b14a03-fbd4-20e5-e6c2-aa603c46f31c",
+            "unit_title": "22",
+            "user_id": "42289b30-e0d3-775b-68f4-f1ae89a3f887_7_7",
+            "username": "Жакутова Жибек Балтемировна",
+            "login": "",
+            "logins": [{
+                "login": "AST_ZHIBEK"
+            }, {
+                "login": "ASTZHIBEK"
+            }],
+            "ts": 1450922085033,
+            "logout": 1450940518835
+        }, {
+            "unit_id": "38b5dde8-d949-906a-4553-a365e6780483",
+            "unit_title": "04",
+            "user_id": "2f2b45d5-4c80-f236-ec3f-ffb45856bf4d_7_7",
+            "username": "Жанабергенова Гульбану Досымбековна",
+            "login": "33333",
+            "logins": [{
+                "login": "ASTGULBAN"
+            }],
+            "ts": 1450941043311,
+            "logout": 1450941050379
+        }, {
+            "unit_id": "29f31134-fc68-3171-5930-1e83a448bfcb",
+            "unit_title": "18",
+            "user_id": "dc088fcf-8644-5205-df6c-9992dddb25f5_7_7",
+            "username": "Мукушева Меруэрт Доскеновна",
+            "login": "AST_MERUERTD",
+            "logins": [{
+                "login": "AST_MERUERTD"
+            }, {
+                "login": "ASTMERUERTD"
+            }],
+            "ts": 1450939316733,
+            "logout": 1450943254938
+        }, {
+            "unit_id": "3c0b75bc-37c1-6ebd-a168-1086643fe041",
+            "unit_title": "15",
+            "user_id": "a99887ba-8f14-d9ad-e3a0-462dffaec40f_7_7",
+            "username": "Серикбаев Шынгыс Даулетович",
+            "login": "ASTSHINGIS",
+            "logins": [{
+                "login": "ASTSHINGIS"
+            }, {
+                "login": "AST_SHYNGYSM"
+            }, {
+                "login": "AST_SHINGIS1"
+            }],
+            "ts": 1450927704773,
+            "logout": 1450944046627
+        }, {
+            "unit_id": "524ac5c9-c71a-ddff-0e22-06c80db983fd",
+            "unit_title": "02",
+            "user_id": "2658264e-303f-cb8d-48e0-f5a1cd52ce8e_7_7",
+            "username": "Назым Женсебаева",
+            "login": "AST_NAZYM",
+            "logins": [{
+                "login": "AST_NAZYM"
+            }, {
+                "login": "ASTNAZYM"
+            }],
+            "ts": 1450927594426,
+            "logout": 1450936622486
+        }, {
+            "unit_id": "b635b7a6-7c90-f214-60ef-8a24eeae0cc9",
+            "unit_title": "23",
+            "user_id": "cca13053-adf6-10ff-376e-e9f17acd1272_7_7",
+            "username": "Утеулиева Алуа Алимхановна",
+            "login": "",
+            "logins": [{
+                "login": "AST_ALUA"
+            }, {
+                "login": "ASTALUA"
+            }],
+            "ts": 1450939767863,
+            "logout": 1450939833891
+        }, {
+            "unit_id": "99e201e9-0648-0098-0a22-5d12ab6b28a6",
+            "unit_title": "19",
+            "user_id": "2c7c15f5-7983-0e54-4186-cf859b2cedff_7_7",
+            "username": "Бекмаганбет Әліби Маратұлы",
+            "login": "KUR_BEK",
+            "logins": [{
+                "login": "KUR_BEK"
+            }, {
+                "login": "ASTALIBI"
+            }],
+            "ts": 1450935568289,
+            "logout": 1450935629708
+        }]
+    }
+}

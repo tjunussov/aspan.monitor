@@ -1,0 +1,4642 @@
+{
+    "ts": "2015-12-24T14:43:14.492+0600",
+    "status": "OK",
+    "data": [{
+        "branch_id": 164,
+        "code": "kazpost-070019",
+        "branch_title": "г.Усть-Каменагорск ГОПС №19",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 29,
+            "total_cnt_exceed_waiting": 9,
+            "max_time_waiting": 1534249,
+            "avg_time_waited": 680712,
+            "lane_max_time_is_waiting": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 327,
+            "total_cnt_is_serving_now": 6,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 701478,
+            "avg_time_served": 336880,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 443,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 7,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 8,
+        "timeMillis": 0
+    }, {
+        "branch_id": 205,
+        "code": "kazpost-070003",
+        "branch_title": "г.Усть-Каменагорск ГОПС №3",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 15,
+            "total_cnt_exceed_waiting": 5,
+            "max_time_waiting": 1956720,
+            "avg_time_waited": 969893,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 144,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 117881,
+            "avg_time_served": 365659,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 182,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 236,
+        "code": "kazpost-050057",
+        "branch_title": "г. Алматы ОПС 57",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 16,
+            "total_cnt_exceed_waiting": 5,
+            "max_time_waiting": 1078676,
+            "avg_time_waited": 1132703,
+            "lane_max_time_is_waiting": {
+                "id": "r:da4a1295-f614-39b4-470b-989ac1b7709d",
+                "title": "Открытие счета. Депозиты",
+                "code": "218"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 417,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 141850,
+            "avg_time_served": 143043,
+            "lane_max_time_is_serving": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "total_cnt_visitors": 444,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 157,
+        "code": "kazpost-010010",
+        "branch_title": "г.Астана ГОПС №10",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 33,
+            "total_cnt_exceed_waiting": 23,
+            "max_time_waiting": 2996846,
+            "avg_time_waited": 1811982,
+            "lane_max_time_is_waiting": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 144,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 910217,
+            "avg_time_served": 456172,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 225,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 173,
+        "code": "kazpost-160300",
+        "branch_title": "ЮКО, ЦОУ Казыгуртского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 41,
+            "total_cnt_exceed_waiting": 30,
+            "max_time_waiting": 2542918,
+            "avg_time_waited": 2430838,
+            "lane_max_time_is_waiting": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 364,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 362644,
+            "avg_time_served": 107074,
+            "lane_max_time_is_serving": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "total_cnt_visitors": 406,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 176,
+        "code": "kazpost-160019",
+        "branch_title": "г. Шымкент, 19-ОПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 7,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 463990,
+            "avg_time_waited": 1268145,
+            "lane_max_time_is_waiting": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 170,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1200286,
+            "avg_time_served": 204538,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 180,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 119,
+        "code": "kazpost-100900",
+        "branch_title": "ЦОУ Нуринский РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 16,
+            "total_cnt_exceed_waiting": 2,
+            "max_time_waiting": 985889,
+            "avg_time_waited": 648491,
+            "lane_max_time_is_waiting": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 109,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1285272,
+            "avg_time_served": 501476,
+            "lane_max_time_is_serving": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "total_cnt_visitors": 132,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 181,
+        "code": "kazpost-080003",
+        "branch_title": "г.Тараз ГОПС №3",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 10,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 564948,
+            "avg_time_waited": 461907,
+            "lane_max_time_is_waiting": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 149,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 312044,
+            "avg_time_served": 287531,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 174,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 199,
+        "code": "kazpost-050082/3",
+        "branch_title": "г.Алматы ППС 10/3",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 15,
+            "total_cnt_exceed_waiting": 3,
+            "max_time_waiting": 1128623,
+            "avg_time_waited": 243753,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 256,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 121348,
+            "avg_time_served": 178608,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 274,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 193,
+        "code": "kazpost-140007",
+        "branch_title": "г.Павлодар ГОПС 7",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 6,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1654209,
+            "avg_time_waited": 1074436,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 76,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 138672,
+            "avg_time_served": 256307,
+            "lane_max_time_is_serving": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "total_cnt_visitors": 83,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 0,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 60,
+        "code": "kazpost-160000",
+        "branch_title": "г. Шымкент, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 51,
+            "total_cnt_exceed_waiting": 19,
+            "max_time_waiting": 1384147,
+            "avg_time_waited": 886017,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 500,
+            "total_cnt_is_serving_now": 7,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 454745,
+            "avg_time_served": 339570,
+            "lane_max_time_is_serving": {
+                "id": "r:9044c704-c368-9d70-7be2-326c547d8995",
+                "title": "Отправка ЕМS отправлений",
+                "code": "106"
+            }
+        },
+        "total_cnt_visitors": 644,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 8,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 13,
+        "timeMillis": 0
+    }, {
+        "branch_id": 171,
+        "code": "kazpost-160005",
+        "branch_title": "г. Шымкент, 5-ОПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 8,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 549426,
+            "avg_time_waited": 685865,
+            "lane_max_time_is_waiting": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 136,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 228430,
+            "avg_time_served": 204583,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 147,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 133,
+        "code": "kazpost-100008",
+        "branch_title": "г.Караганда ГОПС №08",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 3,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 99758,
+            "avg_time_waited": 217928,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 191,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 885912,
+            "avg_time_served": 331458,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 202,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 232,
+        "code": "kazpost-010800",
+        "branch_title": "г.Астана, РУПС Ерейментау",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 7,
+            "total_cnt_exceed_waiting": 1,
+            "max_time_waiting": 924598,
+            "avg_time_waited": 1087352,
+            "lane_max_time_is_waiting": {
+                "id": "r:2813a414-039e-ef08-e66e-590623f9a37c",
+                "title": "Погашение кредита",
+                "code": "204"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 95,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 118725,
+            "avg_time_served": 246129,
+            "lane_max_time_is_serving": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "total_cnt_visitors": 123,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 200,
+        "code": "kazpost-080200",
+        "branch_title": "ЦОУ Жамбылского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 61038
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 257,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 55703,
+            "avg_time_served": 115078,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 260,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 215,
+        "code": "kazpost-150900",
+        "branch_title": "ЦОУ Мамлютского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 2,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 430174,
+            "avg_time_waited": 235962,
+            "lane_max_time_is_waiting": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 92,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1197060,
+            "avg_time_served": 294623,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 100,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 216,
+        "code": "kazpost-070016",
+        "branch_title": "г.Усть-Каменагорск ГОПС№16",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 157154
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 38,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 544528
+        },
+        "total_cnt_visitors": 39,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 203,
+        "code": "kazpost-080900",
+        "branch_title": "ЦОУ Т.Рыскуловского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 39,
+            "total_cnt_exceed_waiting": 28,
+            "max_time_waiting": 2492785,
+            "avg_time_waited": 2212720,
+            "lane_max_time_is_waiting": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 221,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1205276,
+            "avg_time_served": 205972,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 279,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 222,
+        "code": "kazpost-110300",
+        "branch_title": "КОФ ЦОУ Аркалыкского ГУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 12,
+            "total_cnt_exceed_waiting": 1,
+            "max_time_waiting": 1083577,
+            "avg_time_waited": 643348,
+            "lane_max_time_is_waiting": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 227,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 2,
+            "max_time_serving": 2424811,
+            "avg_time_served": 258444,
+            "lane_max_time_is_serving": {
+                "id": "r:ba14a812-56ed-5613-4614-ac463d5b6e7f",
+                "title": "Переводы от юридических лиц",
+                "code": "402"
+            }
+        },
+        "total_cnt_visitors": 302,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 179,
+        "code": "kazpost-100020",
+        "branch_title": "г.Караганда ГОПС №20",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 15,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1167019,
+            "avg_time_waited": 347739,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 125,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 241438,
+            "avg_time_served": 301490,
+            "lane_max_time_is_serving": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "total_cnt_visitors": 168,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 278,
+        "code": "kazpost-060002",
+        "branch_title": "г. Атырау, ГОПС-2",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 51,
+        "code": "kazpost-080000",
+        "branch_title": "г.Тараз ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 2,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 568804,
+            "avg_time_waited": 226027,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 262,
+            "total_cnt_is_serving_now": 5,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1143848,
+            "avg_time_served": 259611,
+            "lane_max_time_is_serving": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "total_cnt_visitors": 293,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 6,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 2,
+        "total_operators_count": 8,
+        "timeMillis": 0
+    }, {
+        "branch_id": 212,
+        "code": "kazpost-080400",
+        "branch_title": "ЦОУ Кордайского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 23,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1829394,
+            "avg_time_waited": 863267,
+            "lane_max_time_is_waiting": {
+                "id": "r:4e21a59b-a018-87df-87dd-f457ecc20a94",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "301"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 262,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 522562,
+            "avg_time_served": 279549,
+            "lane_max_time_is_serving": {
+                "id": "r:271e3b39-1341-1c39-bbca-f48f631b3ae2",
+                "title": "Получение заказной корреспонденции",
+                "code": "105"
+            }
+        },
+        "total_cnt_visitors": 294,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 249,
+        "code": "kazpost-160017",
+        "branch_title": "г. Шымкент, 17-ОПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 245689
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 49,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 172110
+        },
+        "total_cnt_visitors": 58,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 266,
+        "code": "kazposttest_new",
+        "branch_title": "test_new",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 1,
+        "timeMillis": 0
+    }, {
+        "branch_id": 272,
+        "code": "kazpost-060600",
+        "branch_title": "Макатский РУПС, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 186,
+        "code": "kazpost-140003",
+        "branch_title": "г. Павлодар ГОПС-3",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 7,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 2186077,
+            "avg_time_waited": 653176,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 99,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 168540,
+            "avg_time_served": 311198,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 112,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 59,
+        "code": "kazpost-120000",
+        "branch_title": "г.Кызылорда ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 13,
+            "total_cnt_exceed_waiting": 7,
+            "max_time_waiting": 1225016,
+            "avg_time_waited": 270832,
+            "lane_max_time_is_waiting": {
+                "id": "r:ba14a812-56ed-5613-4614-ac463d5b6e7f",
+                "title": "Переводы от юридических лиц",
+                "code": "402"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 120,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 126103,
+            "avg_time_served": 268932,
+            "lane_max_time_is_serving": {
+                "id": "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533",
+                "title": "Срочный перевод Salem tenge",
+                "code": "206"
+            }
+        },
+        "total_cnt_visitors": 145,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 138,
+        "code": "kazpost-120400",
+        "branch_title": "Кызылординский ОФ Казалинский РУПС ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 28,
+            "total_cnt_exceed_waiting": 13,
+            "max_time_waiting": 2051893,
+            "avg_time_waited": 773603,
+            "lane_max_time_is_waiting": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 243,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 394671,
+            "avg_time_served": 236889,
+            "lane_max_time_is_serving": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "total_cnt_visitors": 288,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 189,
+        "code": "kazpost-071411",
+        "branch_title": "г.Семей, ГОПС-11",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 215632
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 29,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 177489,
+            "avg_time_served": 258027,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 31,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 2,
+        "timeMillis": 0
+    }, {
+        "branch_id": 162,
+        "code": "kazpost-070004",
+        "branch_title": "г.Усть-Каменагорск ГОПС №4",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 1,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 112044,
+            "avg_time_waited": 313020,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 194,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 146151,
+            "avg_time_served": 401827,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 204,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 126,
+        "code": "kazpost-100007",
+        "branch_title": "г. Караганда ГОПС №07",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 2,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 448098,
+            "avg_time_waited": 609383,
+            "lane_max_time_is_waiting": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 104,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 318331,
+            "avg_time_served": 307451,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 125,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 169,
+        "code": "kazpost-160018",
+        "branch_title": "г. Шымкент, 18-ОПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 1,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 405526,
+            "avg_time_waited": 691817,
+            "lane_max_time_is_waiting": {
+                "id": "r:72256446-597b-3070-88be-c2f775c04e23",
+                "title": "Народное IPO",
+                "code": "212"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 118,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 2,
+            "max_time_serving": 3760257,
+            "avg_time_served": 386279,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 123,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 1
+    }, {
+        "branch_id": 231,
+        "code": "kazpost-160600",
+        "branch_title": "ЮКО, ЦОУ Ордабасинского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 2,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 142041,
+            "avg_time_waited": 1122852,
+            "lane_max_time_is_waiting": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 137,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 835171,
+            "avg_time_served": 324130,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 143,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 194,
+        "code": "kazpost-140013",
+        "branch_title": "г.Павлодар ГОПС 13",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 222992
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 204,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 31551,
+            "avg_time_served": 280818,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 208,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 269,
+        "code": "kazpost-06test",
+        "branch_title": "test",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 1,
+        "timeMillis": 0
+    }, {
+        "branch_id": 112,
+        "code": "kazpost-100300",
+        "branch_title": "ЦОУ Балхашского ГУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 11,
+            "total_cnt_exceed_waiting": 2,
+            "max_time_waiting": 1131635,
+            "avg_time_waited": 751214,
+            "lane_max_time_is_waiting": {
+                "id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+                "title": "Отправка заказной корреспонденции",
+                "code": "104"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 126,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 657808,
+            "avg_time_served": 502388,
+            "lane_max_time_is_serving": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "total_cnt_visitors": 178,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 8,
+        "timeMillis": 0
+    }, {
+        "branch_id": 34,
+        "code": "kazpost-120014",
+        "branch_title": "г.Кызылорда ГОПС №14",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 8,
+            "total_cnt_exceed_waiting": 1,
+            "max_time_waiting": 976494,
+            "avg_time_waited": 485762,
+            "lane_max_time_is_waiting": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 125,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 259403,
+            "avg_time_served": 269673,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 138,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 65,
+        "code": "kazpost-050000",
+        "branch_title": "ЦОУ Алматы",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 16,
+            "total_cnt_exceed_waiting": 5,
+            "max_time_waiting": 6059802,
+            "avg_time_waited": 494784,
+            "lane_max_time_is_waiting": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 434,
+            "total_cnt_is_serving_now": 13,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 2,
+            "max_time_serving": 5328922,
+            "avg_time_served": 465474,
+            "lane_max_time_is_serving": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "total_cnt_visitors": 521,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 15,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 3,
+        "total_operators_count": 22,
+        "timeMillis": 1
+    }, {
+        "branch_id": 158,
+        "code": "kazpost-040900",
+        "branch_title": "г.Каскелен ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 29,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1025073,
+            "avg_time_waited": 1058537,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 269,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1344240,
+            "avg_time_served": 205896,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 347,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 213,
+        "code": "kazpost-140400",
+        "branch_title": "г. Павлодар Железенский РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 1,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 122850,
+            "avg_time_waited": 599964,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 78,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 643123,
+            "avg_time_served": 321671,
+            "lane_max_time_is_serving": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "total_cnt_visitors": 80,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 53,
+        "code": "kazpost-150009",
+        "branch_title": "ГОПС 9 г. Петропавловск",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 377556
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 94,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 57154,
+            "avg_time_served": 237129,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 98,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 191,
+        "code": "kazpost-141202",
+        "branch_title": "г. Павлодар Экибастузкий РУПС ГОПС 2",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 28770
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 86,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 299673,
+            "avg_time_served": 299818,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 80,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 143,
+        "code": "kazpost-100019",
+        "branch_title": "г.Караганда ГОПС №19",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 9,
+            "total_cnt_exceed_waiting": 3,
+            "max_time_waiting": 1302606,
+            "avg_time_waited": 871893,
+            "lane_max_time_is_waiting": {
+                "id": "r:271e3b39-1341-1c39-bbca-f48f631b3ae2",
+                "title": "Получение заказной корреспонденции",
+                "code": "105"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 143,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1563076,
+            "avg_time_served": 431675,
+            "lane_max_time_is_serving": {
+                "id": "r:271e3b39-1341-1c39-bbca-f48f631b3ae2",
+                "title": "Получение заказной корреспонденции",
+                "code": "105"
+            }
+        },
+        "total_cnt_visitors": 192,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 113,
+        "code": "kazpost-101000",
+        "branch_title": "ЦОУ Осакаровского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 8,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 865299,
+            "avg_time_waited": 515560,
+            "lane_max_time_is_waiting": {
+                "id": "r:2813a414-039e-ef08-e66e-590623f9a37c",
+                "title": "Погашение кредита",
+                "code": "204"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 95,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 371740,
+            "avg_time_served": 364583,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 117,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 202,
+        "code": "kazpost-080100",
+        "branch_title": "ЦОУ Байзакского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 22,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1018057,
+            "avg_time_waited": 2541920,
+            "lane_max_time_is_waiting": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 119,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 2,
+            "max_time_serving": 1301095,
+            "avg_time_served": 222665,
+            "lane_max_time_is_serving": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "total_cnt_visitors": 144,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 2,
+        "timeMillis": 0
+    }, {
+        "branch_id": 28,
+        "code": "kazpost-130000",
+        "branch_title": "г.Актау ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 49,
+            "total_cnt_exceed_waiting": 39,
+            "max_time_waiting": 4012702,
+            "avg_time_waited": 2233117,
+            "lane_max_time_is_waiting": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 290,
+            "total_cnt_is_serving_now": 6,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 205148,
+            "avg_time_served": 297978,
+            "lane_max_time_is_serving": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "total_cnt_visitors": 392,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 7,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 2,
+        "total_operators_count": 11,
+        "timeMillis": 0
+    }, {
+        "branch_id": 268,
+        "code": "kazpost-060300",
+        "branch_title": "Исатайский РУПС, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 7,
+        "code": "kazpost-010000",
+        "branch_title": "г.Астана ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 52,
+            "total_cnt_exceed_waiting": 27,
+            "max_time_waiting": 2307670,
+            "avg_time_waited": 598875,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 655,
+            "total_cnt_is_serving_now": 16,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 6,
+            "max_time_serving": 2243914,
+            "avg_time_served": 446369,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 783,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 17,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 2,
+        "total_operators_count": 23,
+        "timeMillis": 0
+    }, {
+        "branch_id": 211,
+        "code": "kazpost-021200",
+        "branch_title": "РУПС с.Зеренда",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 8,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 762143,
+            "avg_time_waited": 776099,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 128,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 2,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 174406,
+            "avg_time_served": 422776,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 182,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 234,
+        "code": "kazpost-140500",
+        "branch_title": "г.Павлодар Иртышский РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 12,
+            "total_cnt_exceed_waiting": 5,
+            "max_time_waiting": 1245011,
+            "avg_time_waited": 1214047,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 95,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 472204,
+            "avg_time_served": 316353,
+            "lane_max_time_is_serving": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "total_cnt_visitors": 115,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 276,
+        "code": "kazpost-060008",
+        "branch_title": "г. Атырау, ГОПС-5",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 115,
+        "code": "kazpost-040462",
+        "branch_title": "с.Шелек ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 19,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1214007,
+            "avg_time_waited": 555915,
+            "lane_max_time_is_waiting": {
+                "id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+                "title": "Отправка заказной корреспонденции",
+                "code": "104"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 275,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1691439,
+            "avg_time_served": 235116,
+            "lane_max_time_is_serving": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "total_cnt_visitors": 300,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 8,
+        "timeMillis": 0
+    }, {
+        "branch_id": 99,
+        "code": "kazpost-050059",
+        "branch_title": "г. Алматы ОПС 59",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 6,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 504780,
+            "avg_time_waited": 618163,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 146,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 431632,
+            "avg_time_served": 337248,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 213,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 111,
+        "code": "kazpost-110000",
+        "branch_title": "г. Костанай, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 101,
+            "total_cnt_exceed_waiting": 73,
+            "max_time_waiting": 4470292,
+            "avg_time_waited": 1971336,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 666,
+            "total_cnt_is_serving_now": 10,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1103117,
+            "avg_time_served": 268244,
+            "lane_max_time_is_serving": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "total_cnt_visitors": 789,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 11,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 11,
+        "timeMillis": 0
+    }, {
+        "branch_id": 48,
+        "code": "kazpost-140011",
+        "branch_title": "г. Павлодар ГОПС-11",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 1,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 29541,
+            "avg_time_waited": 279051,
+            "lane_max_time_is_waiting": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 128,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 109177,
+            "avg_time_served": 303738,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 132,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 170,
+        "code": "kazpost-160008",
+        "branch_title": "г. Шымкент, 8-ОПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 642861
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 74,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 162060
+        },
+        "total_cnt_visitors": 108,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 68,
+        "code": "kazpost-070000",
+        "branch_title": "г.Усть-Каменогорск ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 99288
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 119,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 357092
+        },
+        "total_cnt_visitors": 122,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 172,
+        "code": "kazpost-160012",
+        "branch_title": "г. Шымкент, 12-ОПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 6,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 315939,
+            "avg_time_waited": 722823,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 65,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 113462,
+            "avg_time_served": 229071,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 76,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 230,
+        "code": "kazpost-161100",
+        "branch_title": "ЮКО, ЦОУ Толебийский РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 18,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1573408,
+            "avg_time_waited": 2068966,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 195,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 145612,
+            "avg_time_served": 291621,
+            "lane_max_time_is_serving": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "total_cnt_visitors": 271,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 6,
+        "code": "kazpost-010017",
+        "branch_title": "г.Астана ГОПС №17",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 10,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 666704,
+            "avg_time_waited": 665141,
+            "lane_max_time_is_waiting": {
+                "id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+                "title": "Отправка заказной корреспонденции",
+                "code": "104"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 226,
+            "total_cnt_is_serving_now": 5,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 649322,
+            "avg_time_served": 374051,
+            "lane_max_time_is_serving": {
+                "id": "r:c52e93dc-e6c7-bc2f-f5af-9ef71bb9ab3a",
+                "title": "Валютно-обменные операции",
+                "code": "208"
+            }
+        },
+        "total_cnt_visitors": 274,
+        "total_cnt_via_booking": 1,
+        "online_operators_now": 6,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 136,
+        "code": "kazpost-120008",
+        "branch_title": "г.Кызылорда ГОПС №8",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 1,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 15993,
+            "avg_time_waited": 41082,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 13,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 360930
+        },
+        "total_cnt_visitors": 14,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 221,
+        "code": "kazpost-111500",
+        "branch_title": "КОФ ЦОУ Рудненского ГУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 29,
+            "total_cnt_exceed_waiting": 23,
+            "max_time_waiting": 3596005,
+            "avg_time_waited": 2256344,
+            "lane_max_time_is_waiting": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 109,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 832608,
+            "avg_time_served": 444597,
+            "lane_max_time_is_serving": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "total_cnt_visitors": 145,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 103,
+        "code": "kazpost-101200",
+        "branch_title": "ЦОУ Саранский ГУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 5,
+            "total_cnt_exceed_waiting": 2,
+            "max_time_waiting": 2500695,
+            "avg_time_waited": 233851,
+            "lane_max_time_is_waiting": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 219,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 375719,
+            "avg_time_served": 283456,
+            "lane_max_time_is_serving": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "total_cnt_visitors": 266,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 165,
+        "code": "kazpost-080300",
+        "branch_title": "ЦОУ Жуалынского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 10,
+            "total_cnt_exceed_waiting": 3,
+            "max_time_waiting": 1389641,
+            "avg_time_waited": 1152481,
+            "lane_max_time_is_waiting": {
+                "id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+                "title": "Отправка заказной корреспонденции",
+                "code": "104"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 205,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 225156,
+            "avg_time_served": 273135,
+            "lane_max_time_is_serving": {
+                "id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+                "title": "Отправка заказной корреспонденции",
+                "code": "104"
+            }
+        },
+        "total_cnt_visitors": 221,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 151,
+        "code": "kazpost-110003",
+        "branch_title": "Костанай - 3",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 8,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 882411,
+            "avg_time_waited": 892752,
+            "lane_max_time_is_waiting": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 173,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 288102,
+            "avg_time_served": 247220,
+            "lane_max_time_is_serving": {
+                "id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+                "title": "Отправка заказной корреспонденции",
+                "code": "104"
+            }
+        },
+        "total_cnt_visitors": 178,
+        "total_cnt_via_booking": 1,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 182,
+        "code": "kazpost-140002",
+        "branch_title": "г. Павлодар ГОПС-2",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 11,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1498759,
+            "avg_time_waited": 368774,
+            "lane_max_time_is_waiting": {
+                "id": "r:9044c704-c368-9d70-7be2-326c547d8995",
+                "title": "Отправка ЕМS отправлений",
+                "code": "106"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 137,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 2204651,
+            "avg_time_served": 407976,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 155,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 63,
+        "code": "kazpost-140000",
+        "branch_title": "г. Павлодар ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 13,
+            "total_cnt_exceed_waiting": 1,
+            "max_time_waiting": 943116,
+            "avg_time_waited": 716578,
+            "lane_max_time_is_waiting": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 312,
+            "total_cnt_is_serving_now": 8,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 509369,
+            "avg_time_served": 460429,
+            "lane_max_time_is_serving": {
+                "id": "r:af218906-b4c2-dd0e-01be-f07550c074a7",
+                "title": "Переводы Western Union",
+                "code": "210"
+            }
+        },
+        "total_cnt_visitors": 378,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 9,
+        "online_kiosks_now": 2,
+        "online_dashboard_now": 2,
+        "total_operators_count": 14,
+        "timeMillis": 0
+    }, {
+        "branch_id": 135,
+        "code": "kazpost-110005",
+        "branch_title": "Костанай - 5",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 5,
+            "total_cnt_exceed_waiting": 1,
+            "max_time_waiting": 900652,
+            "avg_time_waited": 945941,
+            "lane_max_time_is_waiting": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 113,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 268368,
+            "avg_time_served": 386138,
+            "lane_max_time_is_serving": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "total_cnt_visitors": 121,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 0,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 180,
+        "code": "kazpost-150010",
+        "branch_title": "ГОПС 10 г.Петропавловск",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 5,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 416865,
+            "avg_time_waited": 915948,
+            "lane_max_time_is_waiting": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 143,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1110979,
+            "avg_time_served": 336504,
+            "lane_max_time_is_serving": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "total_cnt_visitors": 171,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 150,
+        "code": "kazpost-050035",
+        "branch_title": "г. Алматы ОПС 35",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 26,
+            "total_cnt_exceed_waiting": 18,
+            "max_time_waiting": 6470825,
+            "avg_time_waited": 1223058,
+            "lane_max_time_is_waiting": {
+                "id": "r:863b11a8-ab1e-bfbf-cd25-78a673c47769",
+                "title": "Подписка на газеты и журналы",
+                "code": "305"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 274,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 99808,
+            "avg_time_served": 247079,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 369,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 2,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 235,
+        "code": "kazpost-059900/32",
+        "branch_title": "г. Алматы ППС 2",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 26,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 771983,
+            "avg_time_waited": 3025299,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 108,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 126777,
+            "avg_time_served": 379181,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 215,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 163,
+        "code": "kazpost-070018",
+        "branch_title": "г.Усть-Каменагорск ГОПС №18",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 13,
+            "total_cnt_exceed_waiting": 6,
+            "max_time_waiting": 1670893,
+            "avg_time_waited": 782865,
+            "lane_max_time_is_waiting": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 207,
+            "total_cnt_is_serving_now": 5,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 534701,
+            "avg_time_served": 342697,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 259,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 228,
+        "code": "kazpost-160100",
+        "branch_title": "ЮКО, ЦОУ Арысского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 5,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 436098,
+            "avg_time_waited": 2221364,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 192,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 450965,
+            "avg_time_served": 301084,
+            "lane_max_time_is_serving": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "total_cnt_visitors": 222,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 273,
+        "code": "kazpost-060700",
+        "branch_title": "Махамбетский РУПС, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 69,
+        "code": "kazpost-030000",
+        "branch_title": "г.Актобе ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 21,
+            "total_cnt_exceed_waiting": 11,
+            "max_time_waiting": 3655181,
+            "avg_time_waited": 1619442,
+            "lane_max_time_is_waiting": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 280,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1504305,
+            "avg_time_served": 407886,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 333,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 3,
+        "total_operators_count": 13,
+        "timeMillis": 0
+    }, {
+        "branch_id": 35,
+        "code": "kazpost-080019",
+        "branch_title": "г.Тараз ГОПС №19",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 8,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 227032,
+            "avg_time_waited": 177241,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 275,
+            "total_cnt_is_serving_now": 5,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 191312,
+            "avg_time_served": 190768,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 335,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 6,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 225,
+        "code": "kazpost-161400",
+        "branch_title": "ЮКО, ЦОУ Шардаринского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 1,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 16634,
+            "avg_time_waited": 489083,
+            "lane_max_time_is_waiting": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 82,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 196157,
+            "avg_time_served": 230557,
+            "lane_max_time_is_serving": {
+                "id": "r:2813a414-039e-ef08-e66e-590623f9a37c",
+                "title": "Погашение кредита",
+                "code": "204"
+            }
+        },
+        "total_cnt_visitors": 89,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 114,
+        "code": "kazpost-041600",
+        "branch_title": "г.Талгар ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 226,
+        "code": "kazpost-160500",
+        "branch_title": "ЮКО, ЦОУ Махтааральского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 63,
+            "total_cnt_exceed_waiting": 43,
+            "max_time_waiting": 5115544,
+            "avg_time_waited": 2513842,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 290,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 190821
+        },
+        "total_cnt_visitors": 357,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 220,
+        "code": "kazpost-140100",
+        "branch_title": "ЦОУ Аксуского ГУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 11,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 744168,
+            "avg_time_waited": 484010,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 134,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 337155,
+            "avg_time_served": 238648,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 176,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 271,
+        "code": "kazpost-060400",
+        "branch_title": "Курмангазинский РУПС, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 192,
+        "code": "kazpost-020900",
+        "branch_title": "РУПС г.Есиль",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 1369250
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 58,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 424945
+        },
+        "total_cnt_visitors": 79,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 117,
+        "code": "kazpost-101400",
+        "branch_title": "ЦОУ Темиртау ГУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 14,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1496732,
+            "avg_time_waited": 684993,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 195,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 559564,
+            "avg_time_served": 260441,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 254,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 120,
+        "code": "kazpost-100600",
+        "branch_title": "ЦОУ Жезказганcкого ГУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 1,
+            "total_cnt_exceed_waiting": 1,
+            "max_time_waiting": 16966731,
+            "avg_time_waited": 1524772,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 11,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 16550440,
+            "avg_time_served": 1792392,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 14,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 160,
+        "code": "kazpost-100026",
+        "branch_title": "г.Караганда ГОПС №26",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 12,
+            "total_cnt_exceed_waiting": 1,
+            "max_time_waiting": 940454,
+            "avg_time_waited": 300732,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 179,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 428997,
+            "avg_time_served": 390491,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 206,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 94,
+        "code": "kazpost-100400",
+        "branch_title": "ЦОУ Бухар-Жырауского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 11,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1624491,
+            "avg_time_waited": 196390,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 70,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 150913,
+            "avg_time_served": 323556,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 88,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 49,
+        "code": "kazpost-060009",
+        "branch_title": "г. Атырау, ГОПС -9",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 4,
+            "total_cnt_exceed_waiting": 1,
+            "max_time_waiting": 926513,
+            "avg_time_waited": 635646,
+            "lane_max_time_is_waiting": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 117,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 2,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 179300,
+            "avg_time_served": 378105,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 130,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 184,
+        "code": "kazpost-050082/2",
+        "branch_title": "г. Алматы ППС 10/4",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 29,
+            "total_cnt_exceed_waiting": 16,
+            "max_time_waiting": 1653075,
+            "avg_time_waited": 465562,
+            "lane_max_time_is_waiting": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 286,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 370899,
+            "avg_time_served": 165180,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 322,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 2,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 206,
+        "code": "kazpost-070010",
+        "branch_title": "г.Усть-Каменагорск ГОПС №10",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 6,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 768832,
+            "avg_time_waited": 630018,
+            "lane_max_time_is_waiting": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 179,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 240501,
+            "avg_time_served": 275375,
+            "lane_max_time_is_serving": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "total_cnt_visitors": 213,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 219,
+        "code": "kazpost-030007",
+        "branch_title": "г.Актобе ГОПС №7",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 681262
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 82,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 3346349,
+            "avg_time_served": 461221,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 96,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 132,
+        "code": "kazpost-060100",
+        "branch_title": "Жылыойский РУПС, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 1523432
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 116,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 275409
+        },
+        "total_cnt_visitors": 146,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 148,
+        "code": "kazpost-040700",
+        "branch_title": "п.Отеген батыр ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 18,
+            "total_cnt_exceed_waiting": 3,
+            "max_time_waiting": 1189159,
+            "avg_time_waited": 941044,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 328,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 565204,
+            "avg_time_served": 209615,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 383,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 66,
+        "code": "kazpost-060000",
+        "branch_title": "г. Атырау, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 864669
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 125,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 816924,
+            "avg_time_served": 397957,
+            "lane_max_time_is_serving": {
+                "id": "r:c52e93dc-e6c7-bc2f-f5af-9ef71bb9ab3a",
+                "title": "Валютно-обменные операции",
+                "code": "208"
+            }
+        },
+        "total_cnt_visitors": 209,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 8,
+        "timeMillis": 0
+    }, {
+        "branch_id": 183,
+        "code": "kazpost-140001",
+        "branch_title": "г. Павлодар ГОПС-1",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 2,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 192059,
+            "avg_time_waited": 429789,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 108,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 181129,
+            "avg_time_served": 197950,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 91,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 118,
+        "code": "kazpost-101600",
+        "branch_title": "ЦОУ Шахтинского ГУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 6,
+            "total_cnt_exceed_waiting": 2,
+            "max_time_waiting": 1330425,
+            "avg_time_waited": 496201,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 224,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 2,
+            "max_time_serving": 1590737,
+            "avg_time_served": 245743,
+            "lane_max_time_is_serving": {
+                "id": "r:da4a1295-f614-39b4-470b-989ac1b7709d",
+                "title": "Открытие счета. Депозиты",
+                "code": "218"
+            }
+        },
+        "total_cnt_visitors": 246,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 46,
+        "code": "kazpost-130004",
+        "branch_title": "Актау Почт. ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 3,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 46468,
+            "avg_time_waited": 165537,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 119,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 2,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 191491
+        },
+        "total_cnt_visitors": 151,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 224,
+        "code": "kazpost-111200",
+        "branch_title": "КОФ ЦОУ Лисаковского ГУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 16,
+            "total_cnt_exceed_waiting": 6,
+            "max_time_waiting": 1372277,
+            "avg_time_waited": 789605,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 157,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 676109,
+            "avg_time_served": 346916,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 193,
+        "total_cnt_via_booking": 1,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 1
+    }, {
+        "branch_id": 37,
+        "code": "kazpost-090004",
+        "branch_title": "г.Уральск ГОПС №4",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 190838
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 44,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 336231
+        },
+        "total_cnt_visitors": 46,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 116,
+        "code": "kazpost-040500",
+        "branch_title": "п.Карабулак ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 3,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 359732,
+            "avg_time_waited": 429061,
+            "lane_max_time_is_waiting": {
+                "id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+                "title": "Отправка заказной корреспонденции",
+                "code": "104"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 109,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 46698,
+            "avg_time_served": 349982,
+            "lane_max_time_is_serving": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "total_cnt_visitors": 119,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 75,
+        "code": "kazpost-090000",
+        "branch_title": "Уральск ЦОУ ЗКОФ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 4,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 517748,
+            "avg_time_waited": 297333,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 267,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 292111,
+            "avg_time_served": 219415,
+            "lane_max_time_is_serving": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "total_cnt_visitors": 267,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 10,
+        "timeMillis": 0
+    }, {
+        "branch_id": 167,
+        "code": "kazpost-080600",
+        "branch_title": "ЦОУ Мойынкумского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 11,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 395919,
+            "avg_time_waited": 889314,
+            "lane_max_time_is_waiting": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 210,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 170632,
+            "avg_time_served": 156291,
+            "lane_max_time_is_serving": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "total_cnt_visitors": 229,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 177,
+        "code": "kazpost-160800",
+        "branch_title": "ЮКО, ЦОУ Сайрамского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 128,
+            "total_cnt_exceed_waiting": 112,
+            "max_time_waiting": 5263056,
+            "avg_time_waited": 4803369,
+            "lane_max_time_is_waiting": {
+                "id": "r:ba14a812-56ed-5613-4614-ac463d5b6e7f",
+                "title": "Переводы от юридических лиц",
+                "code": "402"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 342,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 3690213,
+            "avg_time_served": 250497,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 527,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 274,
+        "code": "kazpost-060098",
+        "branch_title": "г. Атырау, ППС Налоговая",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 204,
+        "code": "kazpost-080500",
+        "branch_title": "ЦОУ Меркенского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 11,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 432915,
+            "avg_time_waited": 325198,
+            "lane_max_time_is_waiting": {
+                "id": "r:da4a1295-f614-39b4-470b-989ac1b7709d",
+                "title": "Открытие счета. Депозиты",
+                "code": "218"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 256,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 302191,
+            "avg_time_served": 330365,
+            "lane_max_time_is_serving": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "total_cnt_visitors": 294,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 8,
+        "timeMillis": 0
+    }, {
+        "branch_id": 124,
+        "code": "kazpost-071410",
+        "branch_title": "г.Семей, ГОПС10",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 2,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 362948,
+            "avg_time_waited": 190950,
+            "lane_max_time_is_waiting": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 96,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 848385,
+            "avg_time_served": 332146,
+            "lane_max_time_is_serving": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "total_cnt_visitors": 130,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 137,
+        "code": "kazpost-050036",
+        "branch_title": "г. Алматы ОПС 36",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 16,
+            "total_cnt_exceed_waiting": 8,
+            "max_time_waiting": 2584305,
+            "avg_time_waited": 1661679,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 194,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 587715,
+            "avg_time_served": 274167,
+            "lane_max_time_is_serving": {
+                "id": "r:9044c704-c368-9d70-7be2-326c547d8995",
+                "title": "Отправка ЕМS отправлений",
+                "code": "106"
+            }
+        },
+        "total_cnt_visitors": 260,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 277,
+        "code": "kazpost-060014",
+        "branch_title": "г. Атырау, ГОПС-Балыкши",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 190,
+        "code": "kazpost-140006",
+        "branch_title": "г.Павлодар ГОПС 6",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 2,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 139696,
+            "avg_time_waited": 444282,
+            "lane_max_time_is_waiting": {
+                "id": "r:9044c704-c368-9d70-7be2-326c547d8995",
+                "title": "Отправка ЕМS отправлений",
+                "code": "106"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 195,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 305481,
+            "avg_time_served": 311186,
+            "lane_max_time_is_serving": {
+                "id": "r:a14bf09d-7dd5-91b8-0fae-78dbd46a62cb",
+                "title": "Отправка заказной корреспонденции",
+                "code": "104"
+            }
+        },
+        "total_cnt_visitors": 193,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 81,
+        "code": "kazpost-160016",
+        "branch_title": "г. Шымкент, 16-ОПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 238992
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 49,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 290141,
+            "avg_time_served": 236578,
+            "lane_max_time_is_serving": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "total_cnt_visitors": 52,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 2,
+        "timeMillis": 0
+    }, {
+        "branch_id": 217,
+        "code": "kazpost-050043",
+        "branch_title": "г. Алматы ОПС 43",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 43,
+            "total_cnt_exceed_waiting": 26,
+            "max_time_waiting": 3324082,
+            "avg_time_waited": 915246,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 246,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 2109282,
+            "avg_time_served": 284338,
+            "lane_max_time_is_serving": {
+                "id": "r:82fab477-392a-3db2-3e36-902d52730714",
+                "title": "Пенсионные и социальные отчисления",
+                "code": "401"
+            }
+        },
+        "total_cnt_visitors": 340,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 134,
+        "code": "kazpost-010005",
+        "branch_title": "г.Астана ГОПС №5",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 7,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 696528,
+            "avg_time_waited": 151845,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 283,
+            "total_cnt_is_serving_now": 5,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 777330,
+            "avg_time_served": 312080,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 324,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 7,
+        "timeMillis": 0
+    }, {
+        "branch_id": 240,
+        "code": "kazpost-130001",
+        "branch_title": "г.Актау ОПС-1",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 15,
+            "total_cnt_exceed_waiting": 8,
+            "max_time_waiting": 2173245,
+            "avg_time_waited": 1217430,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 83,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 2,
+            "max_time_serving": 2236140,
+            "avg_time_served": 216103,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 103,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 229,
+        "code": "kazpost-161300",
+        "branch_title": "ЮКО, ЦОУ Тюлькубасского  РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 709948
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 44,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 289716
+        },
+        "total_cnt_visitors": 166,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 161,
+        "code": "kazpost-130002",
+        "branch_title": "Актау ОПС-2",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 23,
+            "total_cnt_exceed_waiting": 10,
+            "max_time_waiting": 1851541,
+            "avg_time_waited": 1077337,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 181,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 238609,
+            "avg_time_served": 264810,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 238,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 3,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 57,
+        "code": "kazpost-020000",
+        "branch_title": "г.Кокшетау ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 10,
+            "total_cnt_exceed_waiting": 1,
+            "max_time_waiting": 1520832,
+            "avg_time_waited": 781526,
+            "lane_max_time_is_waiting": {
+                "id": "r:9e542b69-88ad-1447-461c-cd9c1451195f",
+                "title": "Подписка на газеты и журналы",
+                "code": "107"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 254,
+            "total_cnt_is_serving_now": 5,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 2,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 514824,
+            "avg_time_served": 433572,
+            "lane_max_time_is_serving": {
+                "id": "r:9044c704-c368-9d70-7be2-326c547d8995",
+                "title": "Отправка ЕМS отправлений",
+                "code": "106"
+            }
+        },
+        "total_cnt_visitors": 327,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 12,
+        "timeMillis": 0
+    }, {
+        "branch_id": 39,
+        "code": "kazpost-030019",
+        "branch_title": "г.Актобе ГОПС №19",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 1,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 349688,
+            "avg_time_waited": 415778,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 119,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 144017,
+            "avg_time_served": 355707,
+            "lane_max_time_is_serving": {
+                "id": "r:da4a1295-f614-39b4-470b-989ac1b7709d",
+                "title": "Открытие счета. Депозиты",
+                "code": "218"
+            }
+        },
+        "total_cnt_visitors": 135,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 201,
+        "code": "kazpost-090003",
+        "branch_title": "г. Уральск ГОПС 3",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 5,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 525112,
+            "avg_time_waited": 345077,
+            "lane_max_time_is_waiting": {
+                "id": "r:f4d862b0-cafc-3b6e-d51c-4a61b64f0468",
+                "title": "Денежные переводы",
+                "code": "205"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 105,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 385956,
+            "avg_time_served": 337000,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 111,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 31,
+        "code": "kazpost-100017",
+        "branch_title": "г.Караганда ГОПС №17",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 387146
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 146,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 303039,
+            "avg_time_served": 498849,
+            "lane_max_time_is_serving": {
+                "id": "r:e2e4fa0b-b125-80b0-9c5c-7aef57b69606",
+                "title": "Получение посылок AVON, Lamoda, Yves Rocher*",
+                "code": "103"
+            }
+        },
+        "total_cnt_visitors": 159,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 5,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 8,
+        "timeMillis": 0
+    }, {
+        "branch_id": 280,
+        "code": "kazpost-060003",
+        "branch_title": "г. Атырау, ГОПС-3",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 52,
+        "code": "kazpost-150000",
+        "branch_title": "ЦОУ г. Петропавловск",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 6,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 420511,
+            "avg_time_waited": 458178,
+            "lane_max_time_is_waiting": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 233,
+            "total_cnt_is_serving_now": 6,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 517633,
+            "avg_time_served": 357922,
+            "lane_max_time_is_serving": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "total_cnt_visitors": 261,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 10,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 11,
+        "timeMillis": 0
+    }, {
+        "branch_id": 275,
+        "code": "kazpost-060008",
+        "branch_title": "г. Атырау, ГОПС-8",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 174,
+        "code": "kazpost-160006",
+        "branch_title": "г. Шымкент, 6-ОПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 18,
+            "total_cnt_exceed_waiting": 14,
+            "max_time_waiting": 2424606,
+            "avg_time_waited": 1088532,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 117,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 119539,
+            "avg_time_served": 192722,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 142,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 237,
+        "code": "kazpost-161200",
+        "branch_title": "ЮКО, ЦОУ Туркестанского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 4,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 517062,
+            "avg_time_waited": 657706,
+            "lane_max_time_is_waiting": {
+                "id": "r:da4a1295-f614-39b4-470b-989ac1b7709d",
+                "title": "Открытие счета. Депозиты",
+                "code": "218"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 227,
+            "total_cnt_is_serving_now": 4,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 396167,
+            "avg_time_served": 247248,
+            "lane_max_time_is_serving": {
+                "id": "r:2813a414-039e-ef08-e66e-590623f9a37c",
+                "title": "Погашение кредита",
+                "code": "204"
+            }
+        },
+        "total_cnt_visitors": 267,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 6,
+        "timeMillis": 0
+    }, {
+        "branch_id": 195,
+        "code": "kazpost-081100",
+        "branch_title": "ЦОУ Шуского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 192350
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 111,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 817044,
+            "avg_time_served": 470318,
+            "lane_max_time_is_serving": {
+                "id": "r:01684810-5743-e49d-4177-ea078b04141a",
+                "title": "Получение пенсий, пособий, заработной платы",
+                "code": "207"
+            }
+        },
+        "total_cnt_visitors": 116,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 270,
+        "code": "kazpost-060200",
+        "branch_title": "Индерский РУПС, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 0
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 0,
+            "total_cnt_is_serving_now": 0,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 0,
+            "avg_time_served": 0
+        },
+        "total_cnt_visitors": 0,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 0,
+        "online_kiosks_now": 0,
+        "online_dashboard_now": 0,
+        "total_operators_count": 0,
+        "timeMillis": 0
+    }, {
+        "branch_id": 86,
+        "code": "kazpost-070002",
+        "branch_title": "г.Усть-Каменагорск ГОПС №2",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 5,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 694546,
+            "avg_time_waited": 580520,
+            "lane_max_time_is_waiting": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 139,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 400134,
+            "avg_time_served": 327380,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 149,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 125,
+        "code": "kazpost-050031",
+        "branch_title": "г. Алматы ОПС 31",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 61,
+            "total_cnt_exceed_waiting": 45,
+            "max_time_waiting": 2925509,
+            "avg_time_waited": 2006025,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 249,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 2,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 149450,
+            "avg_time_served": 248783,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 419,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 4,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 175,
+        "code": "kazpost-160900",
+        "branch_title": "ЮКО, ЦОУ Сарыагашского РУПС",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 131,
+            "total_cnt_exceed_waiting": 99,
+            "max_time_waiting": 4939489,
+            "avg_time_waited": 3200943,
+            "lane_max_time_is_waiting": {
+                "id": "r:82fab477-392a-3db2-3e36-902d52730714",
+                "title": "Пенсионные и социальные отчисления",
+                "code": "401"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 434,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 352854,
+            "avg_time_served": 132722,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 568,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 185,
+        "code": "kazpost-010003",
+        "branch_title": "г.Астана ГОПС №3",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 318803
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 130,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 283289,
+            "avg_time_served": 239955,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 153,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 3,
+        "timeMillis": 0
+    }, {
+        "branch_id": 21,
+        "code": "kazpost-040008",
+        "branch_title": "г.Талдыкорган ГОПС №8",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 0,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 0,
+            "avg_time_waited": 1416992
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 69,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 444076,
+            "avg_time_served": 358359,
+            "lane_max_time_is_serving": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "total_cnt_visitors": 77,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 2,
+        "timeMillis": 0
+    }, {
+        "branch_id": 208,
+        "code": "kazpost-050009",
+        "branch_title": "г. Алматы ОПС 9",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 37,
+            "total_cnt_exceed_waiting": 28,
+            "max_time_waiting": 3298245,
+            "avg_time_waited": 1815373,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 53,
+            "total_cnt_is_serving_now": 3,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 524642,
+            "avg_time_served": 251675,
+            "lane_max_time_is_serving": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "total_cnt_visitors": 118,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 152,
+        "code": "kazpost-020004",
+        "branch_title": "г.Кокшетау ГОПС 4",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 6,
+            "total_cnt_exceed_waiting": 4,
+            "max_time_waiting": 1472981,
+            "avg_time_waited": 497794,
+            "lane_max_time_is_waiting": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 96,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 1533617,
+            "avg_time_served": 270144,
+            "lane_max_time_is_serving": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "total_cnt_visitors": 133,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 5,
+        "timeMillis": 0
+    }, {
+        "branch_id": 74,
+        "code": "kazpost-040000",
+        "branch_title": "г.Талдыкорган ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 7,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 677387,
+            "avg_time_waited": 268376,
+            "lane_max_time_is_waiting": {
+                "id": "r:3a48e589-26e6-d9fa-101f-a34a6a3bf446",
+                "title": "Получение посылок, бандеролей, мелких пакетов",
+                "code": "102"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 232,
+            "total_cnt_is_serving_now": 6,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 1,
+            "max_time_serving": 777404,
+            "avg_time_served": 461134,
+            "lane_max_time_is_serving": {
+                "id": "r:863b11a8-ab1e-bfbf-cd25-78a673c47769",
+                "title": "Подписка на газеты и журналы",
+                "code": "305"
+            }
+        },
+        "total_cnt_visitors": 252,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 9,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 2,
+        "total_operators_count": 14,
+        "timeMillis": 0
+    }, {
+        "branch_id": 55,
+        "code": "kazpost-100000",
+        "branch_title": "г.Караганда ЦСУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 3,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 782151,
+            "avg_time_waited": 248416,
+            "lane_max_time_is_waiting": {
+                "id": "r:f178a280-156e-75f9-cce3-3bfe73823e5d",
+                "title": "Отправка посылок, бандеролей, мелких пакетов",
+                "code": "101"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 457,
+            "total_cnt_is_serving_now": 8,
+            "total_cnt_is_pending_now": 1,
+            "total_cnt_is_postponed_now": 1,
+            "total_cnt_exceed_serving": 2,
+            "max_time_serving": 872340,
+            "avg_time_served": 438886,
+            "lane_max_time_is_serving": {
+                "id": "r:da4a1295-f614-39b4-470b-989ac1b7709d",
+                "title": "Открытие счета. Депозиты",
+                "code": "218"
+            }
+        },
+        "total_cnt_visitors": 508,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 15,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 17,
+        "timeMillis": 0
+    }, {
+        "branch_id": 139,
+        "code": "kazpost-030020",
+        "branch_title": "г.Актобе ГОПС №20",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 1,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 38327,
+            "avg_time_waited": 360577,
+            "lane_max_time_is_waiting": {
+                "id": "r:830e2648-46fe-ffac-f76f-f20873827072",
+                "title": "Коммунальные и иные платежи",
+                "code": "217"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 94,
+            "total_cnt_is_serving_now": 2,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 391410,
+            "avg_time_served": 388899,
+            "lane_max_time_is_serving": {
+                "id": "r:47ca1f2f-53f2-4690-c8f8-3df9ee4823fc",
+                "title": "Отправка заказной, простой корреспонденции",
+                "code": "303"
+            }
+        },
+        "total_cnt_visitors": 107,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 2,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }, {
+        "branch_id": 131,
+        "code": "kazpost-060500",
+        "branch_title": "Кызылкогинский РУПС, ЦОУ",
+        "waiting_stat": {
+            "total_cnt_is_waiting_now": 5,
+            "total_cnt_exceed_waiting": 0,
+            "max_time_waiting": 345784,
+            "avg_time_waited": 2686381,
+            "lane_max_time_is_waiting": {
+                "id": "r:e142e6b6-242c-d261-f5a1-cb0e579724bf",
+                "title": "Платежи: в бюджет, налоги",
+                "code": "202"
+            }
+        },
+        "serving_stat": {
+            "total_cnt_is_served": 90,
+            "total_cnt_is_serving_now": 1,
+            "total_cnt_is_pending_now": 0,
+            "total_cnt_is_postponed_now": 0,
+            "total_cnt_exceed_serving": 0,
+            "max_time_serving": 41529,
+            "avg_time_served": 190601,
+            "lane_max_time_is_serving": {
+                "id": "r:fd21ed9a-79cf-3250-9fe3-d36185aa2533",
+                "title": "Срочный перевод Salem tenge",
+                "code": "206"
+            }
+        },
+        "total_cnt_visitors": 123,
+        "total_cnt_via_booking": 0,
+        "online_operators_now": 1,
+        "online_kiosks_now": 1,
+        "online_dashboard_now": 1,
+        "total_operators_count": 4,
+        "timeMillis": 0
+    }]
+}
