@@ -57,7 +57,7 @@ city h1 { text-transform:uppercase; }
 .branch_details{ 
 	background:url(../_img/oblivion_hud.png) -2px -2px rgba(20,20,20,0.9);
 	outline:10px solid rgba(0,0,0,0.6);
-	width:60%;
+	width:960px;
 	z-index:10;
 	transition:height 3s ease-in-out;
 }
@@ -204,7 +204,7 @@ hr { border:none; border-top:1px solid #444; margin:2px 0 1px 0; }
 
 .branch_details tr.more td { border-left:1px dotted;border-right:1px dotted; font:bold 14pt 'Roboto', sans-serif;}
 
-.stats { background-color:#47494f; position:absolute; z-index:1000; top:40px; right:40%; }
+.stats { background-color:#47494f; position:absolute; z-index:1000; top:20px; left:1050px; }
 .stats hr { border:none;  margin:4px 0 3px 0; }
 
 cursor { display:inline-block; width:5px; height:10px; background-color:#fc0; -webkit-animation: 0.5s blink step-end infinite;}
