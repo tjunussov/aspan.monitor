@@ -382,3 +382,11 @@ load {
 #colvir_services table th:nth-child(5),#colvir_services table td:nth-child(5) {
     width: 75px;
 }
+#colvir_services tr.noticket td { 
+	opacity:0.3;
+}
+
+#colvir_services tr.noticket td:first-child { 
+	opacity:1;
+	color:rgba(255, 204, 0, 0.6);
+}
